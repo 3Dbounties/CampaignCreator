@@ -1,0 +1,389 @@
+{
+  "questions": [
+    {
+      "question": "How often will combat encounters occur?",
+      "options": [
+        "Frequently, with at least one combat encounter per session",
+        "Occasionally, with combat every few sessions",
+        "Rarely, with combat as a special event",
+        "Player-driven, based on their actions and choices"
+      ]
+    },
+    {
+      "question": "What is the typical difficulty level of combat encounters?",
+      "options": [
+        "Easy, suitable for quick skirmishes",
+        "Medium, providing a balanced challenge",
+        "Hard, requiring strategic thinking and teamwork",
+        "Deadly, posing a serious threat to the party"
+      ]
+    },
+    {
+      "question": "Are there any specific combat tactics or strategies used by enemies?",
+      "options": [
+        "Ambushes and surprise attacks",
+        "Hit-and-run tactics",
+        "Use of environment and terrain for advantage",
+        "Coordinated attacks with a clear strategy"
+      ]
+    },
+    {
+      "question": "Will there be any multi-stage or evolving combat encounters?",
+      "options": [
+        "Yes, with changing objectives and phases",
+        "No, combat will be straightforward and single-phase",
+        "Sometimes, depending on the story and enemies involved"
+      ]
+    },
+    {
+      "question": "How will enemy reinforcements or ambushes be handled?",
+      "options": [
+        "Randomly determined by dice rolls",
+        "Pre-planned and scripted events",
+        "Based on player actions and noise levels",
+        "Triggered by specific conditions or traps"
+      ]
+    },
+    {
+      "question": "Are there any unique battlefield conditions or terrains?",
+      "options": [
+        "Yes, such as hazardous terrain or magical effects",
+        "No, battles will occur on standard terrains",
+        "Occasionally, for specific key encounters"
+      ]
+    },
+    {
+      "question": "How will initiative be managed in large-scale battles?",
+      "options": [
+        "Using standard initiative rolls for all participants",
+        "Group initiatives for enemies and allies",
+        "Special rules for faster resolution",
+        "DM discretion based on the encounter"
+      ]
+    },
+    {
+      "question": "What is the role of diplomacy in resolving conflicts?",
+      "options": [
+        "Primary method, with combat as a last resort",
+        "Balanced, with opportunities for both diplomacy and combat",
+        "Limited, with most conflicts resolved through combat",
+        "Player-driven, based on their approach and skills"
+      ]
+    },
+    {
+      "question": "How will social encounters impact the overall story?",
+      "options": [
+        "Significantly, affecting main plot and side quests",
+        "Moderately, influencing character relationships and minor plot points",
+        "Minimally, with most focus on combat and exploration",
+        "Player-driven, with variable impact based on choices"
+      ]
+    },
+    {
+      "question": "What types of NPCs will players need to negotiate with?",
+      "options": [
+        "Merchants and traders",
+        "Local leaders and nobility",
+        "Factions and guild representatives",
+        "Common folk and informants"
+      ]
+    },
+    {
+      "question": "Are there any language barriers or cultural differences to consider?",
+      "options": [
+        "Yes, with specific challenges and translation needs",
+        "No, common language used universally",
+        "Occasionally, for specific regions or races",
+        "Player-driven, based on character backgrounds"
+      ]
+    },
+    {
+      "question": "Will there be opportunities for players to gather information through social means?",
+      "options": [
+        "Yes, with regular chances to learn from NPCs",
+        "No, information gathered primarily through exploration",
+        "Sometimes, depending on the setting and situation",
+        "Player-driven, based on their actions and choices"
+      ]
+    },
+    {
+      "question": "How will player choices in social encounters affect their reputation or standing with factions?",
+      "options": [
+        "Directly, with clear consequences for actions",
+        "Indirectly, with gradual impact over time",
+        "Not at all, with factions unaffected by social encounters",
+        "Player-driven, with variable outcomes based on choices"
+      ]
+    },
+    {
+      "question": "What natural hazards will the players face (e.g., avalanches, quicksand)?",
+      "options": [
+        "Common hazards like avalanches and quicksand",
+        "Rare and unique hazards specific to the region",
+        "Standard hazards with occasional unique challenges",
+        "Player-driven, based on their exploration choices"
+      ]
+    },
+    {
+      "question": "Are there any magical or supernatural hazards in the environment?",
+      "options": [
+        "Yes, frequent magical hazards",
+        "No, only natural hazards",
+        "Occasionally, for specific areas or quests",
+        "Player-driven, based on their actions and choices"
+      ]
+    },
+    {
+      "question": "How will weather conditions affect gameplay?",
+      "options": [
+        "Significantly, impacting movement and visibility",
+        "Moderately, with minor effects on gameplay",
+        "Minimally, serving as flavor rather than challenge",
+        "Player-driven, with variable impact based on choices"
+      ]
+    },
+    {
+      "question": "Will players need to navigate through hazardous terrain, such as swamps or deserts?",
+      "options": [
+        "Yes, with regular challenges from terrain",
+        "No, standard terrain with few hazards",
+        "Occasionally, for specific regions or quests",
+        "Player-driven, based on their exploration choices"
+      ]
+    },
+    {
+      "question": "How will environmental hazards be detected and avoided?",
+      "options": [
+        "Skill checks such as Perception or Survival",
+        "Pre-determined by DM",
+        "Player creativity and ingenuity",
+        "Randomly determined by dice rolls"
+      ]
+    },
+    {
+      "question": "Are there any time-sensitive environmental challenges, such as rising floodwaters?",
+      "options": [
+        "Yes, with regular time-sensitive challenges",
+        "No, challenges will not be time-sensitive",
+        "Occasionally, for specific key encounters",
+        "Player-driven, based on their actions and choices"
+      ]
+    },
+    {
+      "question": "What types of traps will be present (e.g., mechanical, magical)?",
+      "options": [
+        "Mechanical traps",
+        "Magical traps",
+        "Both mechanical and magical traps",
+        "Unique traps specific to the story"
+      ]
+    },
+    {
+      "question": "How will traps be detected and disarmed?",
+      "options": [
+        "Skill checks such as Perception or Investigation",
+        "Player creativity and ingenuity",
+        "Pre-determined by DM",
+        "Randomly determined by dice rolls"
+      ]
+    },
+    {
+      "question": "Are there any puzzle-based challenges that require critical thinking or problem-solving?",
+      "options": [
+        "Yes, with regular puzzle-based challenges",
+        "No, challenges will be straightforward",
+        "Occasionally, for specific key encounters",
+        "Player-driven, based on their actions and choices"
+      ]
+    },
+    {
+      "question": "How will failure to solve puzzles or avoid traps impact the players?",
+      "options": [
+        "Significantly, with major consequences",
+        "Moderately, with some setbacks",
+        "Minimally, serving as a minor inconvenience",
+        "Player-driven, with variable outcomes based on choices"
+      ]
+    },
+    {
+      "question": "Will there be clues or hints available to help players solve puzzles?",
+      "options": [
+        "Yes, with regular hints and clues",
+        "No, players must solve puzzles without assistance",
+        "Occasionally, based on player actions",
+        "Player-driven, with variable availability of clues"
+      ]
+    },
+    {
+      "question": "Are there any traps that are tied to specific story elements or lore?",
+      "options": [
+        "Yes, with traps integral to the story",
+        "No, traps will be generic",
+        "Occasionally, for specific key encounters",
+        "Player-driven, based on their actions and choices"
+      ]
+    },
+    {
+      "question": "Are there any challenges that require specific skills or abilities to overcome?",
+      "options": [
+        "Yes, with challenges designed for specific skills",
+        "No, challenges can be overcome by any skillset",
+        "Occasionally, for specific key encounters",
+        "Player-driven, based on their character choices"
+      ]
+    },
+    {
+      "question": "How will players handle challenges that require teamwork or coordination?",
+      "options": [
+        "By using their unique abilities in conjunction",
+        "Through strategic planning and communication",
+        "Pre-determined by DM",
+        "Player-driven, with variable outcomes based on choices"
+      ]
+    },
+    {
+      "question": "Will there be any moral or ethical dilemmas tied to challenges?",
+      "options": [
+        "Yes, with regular moral dilemmas",
+        "No, challenges will be straightforward",
+        "Occasionally, for specific key encounters",
+        "Player-driven, based on their actions and choices"
+      ]
+    },
+    {
+      "question": "Are there any challenges that involve resource management or survival skills?",
+      "options": [
+        "Yes, with regular resource management challenges",
+        "No, challenges will not involve resource management",
+        "Occasionally, for specific key encounters",
+        "Player-driven, based on their actions and choices"
+      ]
+    },
+    {
+      "question": "How will time constraints or deadlines impact challenges?",
+      "options": [
+        "Significantly, with many time-sensitive challenges",
+        "Moderately, with some challenges having deadlines",
+        "Minimally, serving as a minor aspect of challenges",
+        "Player-driven, with variable impact based on choices"
+      ]
+    },
+    {
+      "question": "Are there any recurring challenges or obstacles that players will need to prepare for?",
+      "options": [
+        "Yes, with regular recurring challenges",
+        "No, challenges will be varied and unique",
+        "Occasionally, for specific key encounters",
+        "Player-driven, based on their actions and choices"
+      ]
+    },
+    {
+      "question": "What unique or custom monsters will be featured in the campaign?",
+      "options": [
+        "Homebrew monsters created by the DM",
+        "Modified versions of standard monsters",
+        "Unique creatures tied to the story",
+        "Player-driven, based on their actions and choices"
+      ]
+    },
+    {
+      "question": "How will these custom monsters differ from standard ones?",
+      "options": [
+        "Unique abilities and traits",
+        "Different weaknesses and resistances",
+        "Special lore and backstory",
+        "Variable, depending on the encounter"
+      ]
+    },
+    {
+      "question": "Are there any legendary or mythic encounters planned?",
+      "options": [
+        "Yes, with major boss fights",
+        "No, encounters will be standard",
+        "Occasionally, for specific key encounters",
+        "Player-driven, based on their actions and choices"
+      ]
+    },
+    {
+      "question": "How will players be introduced to custom monsters and their lore?",
+      "options": [
+        "Through in-game lore and stories",
+        "Via encounters and combat",
+        "Through NPC interactions and quests",
+        "Player-driven, based on their exploration choices"
+      ]
+    },
+    {
+      "question": "Are there any special rewards or items tied to unique encounters?",
+      "options": [
+        "Yes, with rare and powerful items",
+        "No, rewards will be standard",
+        "Occasionally, for specific key encounters",
+        "Player-driven, based on their actions and choices"
+      ]
+    },
+    {
+      "question": "How will custom encounters scale with player levels and abilities?",
+      "options": [
+        "Scaled to party level for balanced difficulty",
+        "Fixed difficulty regardless of party level",
+        "Variable, with some encounters harder than others",
+        "Player-driven, based on their actions and choices"
+      ]
+    },
+    {
+      "question": "How will players be informed about potential encounters and challenges?",
+      "options": [
+        "Through NPC warnings and rumors",
+        "Via environmental clues and signs",
+        "Directly through DM narration",
+        "Player-driven, based on their exploration choices"
+      ]
+    },
+    {
+      "question": "What resources or information will be available to help players prepare?",
+      "options": [
+        "In-game books and scrolls",
+        "NPC advice and guidance",
+        "Environmental clues and signs",
+        "Player-driven, based on their investigation skills"
+      ]
+    },
+    {
+      "question": "Are there any opportunities for players to scout or gather intelligence before encounters?",
+      "options": [
+        "Yes, with regular scouting opportunities",
+        "No, encounters will be direct and immediate",
+        "Occasionally, based on player actions",
+        "Player-driven, with variable opportunities based on choices"
+      ]
+    },
+    {
+      "question": "How will player strategies and tactics influence the outcome of encounters?",
+      "options": [
+        "Significantly, with strategic play rewarded",
+        "Moderately, with some impact on outcomes",
+        "Minimally, serving as a minor aspect of encounters",
+        "Player-driven, with variable impact based on choices"
+      ]
+    },
+    {
+      "question": "What role will player creativity and ingenuity play in overcoming challenges?",
+      "options": [
+        "Primary, with creativity encouraged",
+        "Secondary, with some opportunities for ingenuity",
+        "Minimal, with straightforward challenges",
+        "Player-driven, with variable opportunities based on choices"
+      ]
+    },
+    {
+      "question": "How will the campaign encourage or reward strategic thinking and planning?",
+      "options": [
+        "Through in-game rewards and advantages",
+        "By providing clear benefits for planning",
+        "By incorporating strategic elements in encounters",
+        "Player-driven, with variable rewards based on choices"
+      ]
+    }
+  ]
+}

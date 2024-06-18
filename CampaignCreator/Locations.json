@@ -1,0 +1,436 @@
+{
+  "questions": [
+    {
+      "question": "What historical significance do these locations have?",
+      "options": [
+        "Ancient battlegrounds.",
+        "Birthplace of a famous hero.",
+        "Site of a legendary event.",
+        "Old trade routes."
+      ]
+    },
+    {
+      "question": "What is the current state of these locations (e.g., thriving, abandoned, under siege)?",
+      "options": [
+        "Thriving city with bustling trade.",
+        "Abandoned ruins reclaimed by nature.",
+        "Under siege by enemy forces.",
+        "Peaceful village with recent troubles."
+      ]
+    },
+    {
+      "question": "What notable landmarks or structures are found in these locations?",
+      "options": [
+        "Ancient castle.",
+        "Mysterious monolith.",
+        "Famous temple.",
+        "Natural wonder."
+      ]
+    },
+    {
+      "question": "Who controls these locations, and how secure is their control?",
+      "options": [
+        "Local lord with a strong militia.",
+        "Merchant guild with hired guards.",
+        "Rebel group with tenuous hold.",
+        "No clear ruler, lawless area."
+      ]
+    },
+    {
+      "question": "What is the starting location's political environment?",
+      "options": [
+        "Stable monarchy.",
+        "Democracy with frequent debates.",
+        "Tyrannical ruler causing unrest.",
+        "Peaceful alliance of tribes."
+      ]
+    },
+    {
+      "question": "What resources are available to the players in the starting location?",
+      "options": [
+        "Well-stocked market with diverse goods.",
+        "Local craftsmen offering services.",
+        "Abundant natural resources.",
+        "Sparse supplies, need to be cautious."
+      ]
+    },
+    {
+      "question": "What is the local culture and how does it affect the starting location?",
+      "options": [
+        "Rich tradition of festivals and arts.",
+        "Martial culture with strict training.",
+        "Scholarly focus with many libraries.",
+        "Trade-focused with many caravans."
+      ]
+    },
+    {
+      "question": "Are there any immediate threats or opportunities in the starting location?",
+      "options": [
+        "Bandit raids on the outskirts.",
+        "Upcoming festival needing protection.",
+        "New trade routes being established.",
+        "Political intrigue brewing in the courts."
+      ]
+    },
+    {
+      "question": "What is the economy of these places based on?",
+      "options": [
+        "Trade and commerce.",
+        "Agriculture and farming.",
+        "Mining and resources extraction.",
+        "Artisan crafts and goods."
+      ]
+    },
+    {
+      "question": "What are the main industries and trades?",
+      "options": [
+        "Textiles and clothing.",
+        "Blacksmithing and metalwork.",
+        "Food production and processing.",
+        "Magic item creation and sales."
+      ]
+    },
+    {
+      "question": "Who are the key figures in these cities, towns, or settlements?",
+      "options": [
+        "The ruling noble or lord.",
+        "The head merchant or guildmaster.",
+        "The local cleric or priest.",
+        "The captain of the guard."
+      ]
+    },
+    {
+      "question": "What are the major conflicts or issues facing these places?",
+      "options": [
+        "Economic downturn and poverty.",
+        "Invasion or threat of war.",
+        "Internal political strife.",
+        "Environmental disaster or plague."
+      ]
+    },
+    {
+      "question": "What is the backstory or lore of these dungeons or ruins?",
+      "options": [
+        "Former stronghold of an ancient order.",
+        "Site of a powerful wizard's experiments.",
+        "Once a prosperous city, now cursed.",
+        "Legendary treasure hidden within."
+      ]
+    },
+    {
+      "question": "What dangers or challenges do they present?",
+      "options": [
+        "Traps and puzzles.",
+        "Monsters and guardians.",
+        "Environmental hazards.",
+        "Rival adventurers."
+      ]
+    },
+    {
+      "question": "What treasures or secrets are hidden within them?",
+      "options": [
+        "Magical artifacts.",
+        "Ancient tomes of knowledge.",
+        "Vast wealth of gold and gems.",
+        "Lost technologies."
+      ]
+    },
+    {
+      "question": "Who or what currently inhabits these locations?",
+      "options": [
+        "Bandits or thieves.",
+        "Monsters or undead.",
+        "Hermit or sage.",
+        "Cursed spirits."
+      ]
+    },
+    {
+      "question": "What role do these features play in the campaign's story?",
+      "options": [
+        "Key locations for major quests.",
+        "Hubs for important NPC interactions.",
+        "Sites of significant battles.",
+        "Locations for rare resources."
+      ]
+    },
+    {
+      "question": "How do these features affect travel and exploration?",
+      "options": [
+        "Impassable without special equipment.",
+        "Require guides or local knowledge.",
+        "Frequent monster encounters.",
+        "Offer shortcuts or hidden paths."
+      ]
+    },
+    {
+      "question": "Are there any myths or legends associated with these geographical features?",
+      "options": [
+        "Tales of lost civilizations.",
+        "Legends of powerful artifacts.",
+        "Stories of cursed lands.",
+        "Myths of ancient dragons."
+      ]
+    },
+    {
+      "question": "What natural resources or hazards do these features present?",
+      "options": [
+        "Rich mineral deposits.",
+        "Dangerous wildlife.",
+        "Fertile land for farming.",
+        "Harsh weather conditions."
+      ]
+    },
+    {
+      "question": "What is the typical weather in these locations?",
+      "options": [
+        "Temperate and mild.",
+        "Hot and arid.",
+        "Cold and snowy.",
+        "Tropical and humid."
+      ]
+    },
+    {
+      "question": "How does the climate affect the inhabitants and wildlife?",
+      "options": [
+        "Seasonal migrations.",
+        "Adaptation of local flora and fauna.",
+        "Impact on agriculture and food supply.",
+        "Frequent natural disasters."
+      ]
+    },
+    {
+      "question": "Are there any seasonal events or phenomena?",
+      "options": [
+        "Annual festivals.",
+        "Natural events like eclipses.",
+        "Migration of animals.",
+        "Seasonal storms or floods."
+      ]
+    },
+    {
+      "question": "How do the environmental conditions influence the storyline?",
+      "options": [
+        "Affect travel and logistics.",
+        "Create opportunities for unique encounters.",
+        "Shape the local culture and economy.",
+        "Present challenges or advantages."
+      ]
+    },
+    {
+      "question": "What are the customs and traditions of these locations?",
+      "options": [
+        "Unique marriage rituals.",
+        "Coming-of-age ceremonies.",
+        "Seasonal harvest festivals.",
+        "Religious or spiritual practices."
+      ]
+    },
+    {
+      "question": "What languages and dialects are spoken?",
+      "options": [
+        "Common tongue and local dialects.",
+        "Ancient languages.",
+        "Secret or coded languages.",
+        "Magical languages."
+      ]
+    },
+    {
+      "question": "Are there any notable festivals or holidays?",
+      "options": [
+        "Harvest festival.",
+        "Religious observance.",
+        "Victory celebration.",
+        "Cultural heritage day."
+      ]
+    },
+    {
+      "question": "What is the societal structure (e.g., caste system, democracy, monarchy)?",
+      "options": [
+        "Feudal system.",
+        "Democratic governance.",
+        "Theocratic rule.",
+        "Tribal council."
+      ]
+    },
+    {
+      "question": "What are the main modes of transportation?",
+      "options": [
+        "Horse-drawn carriages.",
+        "Riverboats or ships.",
+        "Magical portals or teleportation.",
+        "Foot travel and caravans."
+      ]
+    },
+    {
+      "question": "How well-developed are the roads and communication networks?",
+      "options": [
+        "Paved roads and efficient couriers.",
+        "Rough trails and limited communication.",
+        "Extensive magical network.",
+        "Isolated with few connections."
+      ]
+    },
+    {
+      "question": "Are there any important trade routes or ports?",
+      "options": [
+        "Major overland trade routes.",
+        "Key seaports and harbors.",
+        "Secret smuggling paths.",
+        "Ancient caravan routes."
+      ]
+    },
+    {
+      "question": "How do people travel between key locations?",
+      "options": [
+        "Regular caravans and merchant ships.",
+        "Individual travelers and adventurers.",
+        "Magical transportation.",
+        "Local guides and scouts."
+      ]
+    },
+    {
+      "question": "What unique plants and animals are found in these locations?",
+      "options": [
+        "Rare medicinal herbs.",
+        "Exotic animals.",
+        "Magical creatures.",
+        "Dangerous predators."
+      ]
+    },
+    {
+      "question": "Are there any magical or rare creatures?",
+      "options": [
+        "Dragons and wyverns.",
+        "Unicorns and pegasi.",
+        "Fey creatures.",
+        "Aberrations."
+      ]
+    },
+    {
+      "question": "How do the inhabitants interact with the local wildlife?",
+      "options": [
+        "Domestication and farming.",
+        "Hunting and trapping.",
+        "Magical bonds and companionship.",
+        "Avoidance and conflict."
+      ]
+    },
+    {
+      "question": "What role do flora and fauna play in the local economy and culture?",
+      "options": [
+        "Source of food and materials.",
+        "Basis for medicinal practices.",
+        "Cultural symbols and totems.",
+        "Tourist attractions."
+      ]
+    },
+    {
+      "question": "Are there any hidden or secret areas known only to a few?",
+      "options": [
+        "Hidden caves and tunnels.",
+        "Secret rooms in old buildings.",
+        "Underground hideouts.",
+        "Magically concealed areas."
+      ]
+    },
+    {
+      "question": "What rumors or legends surround these secret locations?",
+      "options": [
+        "Tales of hidden treasure.",
+        "Stories of lost civilizations.",
+        "Rumors of dark rituals.",
+        "Legends of powerful artifacts."
+      ]
+    },
+    {
+      "question": "How can players discover these hidden places?",
+      "options": [
+        "Following clues or maps.",
+        "Gaining information from locals.",
+        "Magical divination.",
+        "Exploration and chance discovery."
+      ]
+    },
+    {
+      "question": "What dangers or rewards are associated with these secret locations?",
+      "options": [
+        "Deadly traps and guardians.",
+        "Rare and valuable treasures.",
+        "Ancient knowledge and magic.",
+        "Powerful enemies."
+      ]
+    },
+    {
+      "question": "What natural or supernatural threats are present in these locations?",
+      "options": [
+        "Monster infestations.",
+        "Environmental hazards.",
+        "Cursed or haunted areas.",
+        "Territorial conflicts."
+      ]
+    },
+    {
+      "question": "Are there any ongoing wars or skirmishes?",
+      "options": [
+        "Major wars between kingdoms.",
+        "Local skirmishes between tribes.",
+        "Political uprisings.",
+        "Religious conflicts."
+      ]
+    },
+    {
+      "question": "What factions are vying for control of these areas?",
+      "options": [
+        "Noble houses.",
+        "Criminal organizations.",
+        "Religious sects.",
+        "Mercenary companies."
+      ]
+    },
+    {
+      "question": "How do these conflicts affect the inhabitants and the players?",
+      "options": [
+        "Displacement and refugees.",
+        "Opportunities for mercenaries.",
+        "Economic and social instability.",
+        "Increased security measures."
+      ]
+    },
+    {
+      "question": "How prevalent is magic in these locations?",
+      "options": [
+        "Commonplace and accepted.",
+        "Rare and feared.",
+        "Regulated and controlled.",
+        "Wild and unpredictable."
+      ]
+    },
+    {
+      "question": "Are there any significant magical sites or ley lines?",
+      "options": [
+        "Ancient temples and shrines.",
+        "Ley line convergence points.",
+        "Mystical groves and forests.",
+        "Arcane academies."
+      ]
+    },
+    {
+      "question": "How do local laws and customs regulate the use of magic?",
+      "options": [
+        "Strict regulations and licenses.",
+        "Banned except for emergencies.",
+        "Encouraged and supported.",
+        "Secretly practiced."
+      ]
+    },
+    {
+      "question": "What magical traditions or schools are prominent?",
+      "options": [
+        "Elemental magic.",
+        "Necromancy and dark arts.",
+        "Divine magic.",
+        "Illusion and enchantment."
+      ]
+    }
+  ]
+}

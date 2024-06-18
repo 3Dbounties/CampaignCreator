@@ -1,0 +1,310 @@
+{
+  "questions": [
+    {
+      "question": "How common is magic in the campaign world?",
+      "options": [
+        "Magic is rare and mysterious, with only a few individuals possessing it.",
+        "Magic is uncommon but known, with certain regions or professions having access to it.",
+        "Magic is common and integrated into everyday life, with many individuals and societies using it regularly.",
+        "Magic is ubiquitous, with almost everyone having some minor magical ability or access to magical items."
+      ]
+    },
+    {
+      "question": "Are there any restrictions on certain types of magic or spells?",
+      "options": [
+        "Necromancy is banned and heavily punished.",
+        "Only divine magic is allowed, arcane magic is forbidden.",
+        "No restrictions exist, all types of magic are permitted.",
+        "Certain spells that can cause large-scale destruction are restricted."
+      ]
+    },
+    {
+      "question": "How do the laws of the land view magic and its practitioners?",
+      "options": [
+        "Magic is highly regulated, with strict laws governing its use.",
+        "Magic is accepted but monitored by the authorities.",
+        "Magic is freely practiced without any legal restrictions.",
+        "Magic is feared and outlawed, with practitioners being hunted."
+      ]
+    },
+    {
+      "question": "Are there any cultural or regional variations in the availability and use of magic?",
+      "options": [
+        "Magic is more common in urban areas than in rural ones.",
+        "Certain regions are known for specific types of magic, like fire magic in volcanic areas.",
+        "Different cultures have unique magical traditions and spells.",
+        "Magic is uniformly distributed with no significant regional variations."
+      ]
+    },
+    {
+      "question": "How will magic items be distributed throughout the campaign?",
+      "options": [
+        "Magic items will be rare and hard to find.",
+        "Magic items will be relatively common, found in most dungeons and treasure hoards.",
+        "Magic items will be distributed through specific quests and missions.",
+        "Magic items will be available for purchase in shops in major cities."
+      ]
+    },
+    {
+      "question": "Are there specific shops or locations where players can buy magic items?",
+      "options": [
+        "Yes, there are dedicated magic item shops in large cities.",
+        "Magic items can be found in general stores but are very expensive.",
+        "Magic items are only available through black market dealers.",
+        "No, magic items must be found through adventuring and quests."
+      ]
+    },
+    {
+      "question": "Are there any cursed or dangerous magic items the players might encounter?",
+      "options": [
+        "Yes, cursed items are scattered throughout the campaign.",
+        "No, all magic items are beneficial.",
+        "Some items have hidden dangers or side effects.",
+        "Cursed items are rare but can be powerful and tempting."
+      ]
+    },
+    {
+      "question": "What types of magic items (weapons, armor, utility, etc.) will be most prevalent?",
+      "options": [
+        "Weapons and armor will be most common.",
+        "Utility items like potions and rings will be most common.",
+        "A balanced mix of all types will be available.",
+        "Rare artifacts and relics will be the primary focus."
+      ]
+    },
+    {
+      "question": "Will there be any opportunity for players to craft or enchant their own magic items?",
+      "options": [
+        "Yes, players can learn to craft and enchant items through special quests.",
+        "No, crafting and enchanting are not available in this campaign.",
+        "Players can craft items if they find the right materials and recipes.",
+        "Enchanting services can be hired from NPCs but players cannot do it themselves."
+      ]
+    },
+    {
+      "question": "Are there any items that are specifically tied to the lore or history of the campaign?",
+      "options": [
+        "Yes, there are legendary items with deep ties to the campaign's history.",
+        "No, all items are generic and not tied to specific lore.",
+        "Some items have minor connections to the campaign's lore.",
+        "Many items are tied to the lore and can reveal hidden aspects of the story."
+      ]
+    },
+    {
+      "question": "How accessible are spellcasting services for hire, such as healing or teleportation?",
+      "options": [
+        "Very accessible, with many spellcasters for hire in towns and cities.",
+        "Somewhat accessible, with services available only in larger settlements.",
+        "Rarely accessible, with only a few known locations offering such services.",
+        "Not accessible, players must rely on their own abilities or those of their party."
+      ]
+    },
+    {
+      "question": "Are there any restrictions or limitations on hiring spellcasters?",
+      "options": [
+        "Yes, only certain guilds or temples offer spellcasting services.",
+        "No, any spellcaster can be hired for a price.",
+        "Restrictions based on the type of spell or service requested.",
+        "Limited to high-level spells only."
+      ]
+    },
+    {
+      "question": "What are the costs associated with hiring spellcasting services?",
+      "options": [
+        "Costs are high, making it a luxury service.",
+        "Moderate costs, affordable for mid-level players.",
+        "Low costs, accessible to most players.",
+        "Variable costs based on the spell level and complexity."
+      ]
+    },
+    {
+      "question": "Will there be any powerful spellcasters that can serve as mentors or allies to the players?",
+      "options": [
+        "Yes, several powerful spellcasters will aid the players.",
+        "No, players must rely on their own abilities.",
+        "One or two key spellcasters will serve as mentors.",
+        "Mentors will be available, but only through completing specific quests."
+      ]
+    },
+    {
+      "question": "What themes or motifs will the unique or custom magic items follow?",
+      "options": [
+        "Elemental themes like fire, water, air, and earth.",
+        "Cultural themes tied to the different regions and peoples of the campaign.",
+        "Mystical and otherworldly themes, with items of unknown origin.",
+        "Historical themes connected to ancient civilizations and lost knowledge."
+      ]
+    },
+    {
+      "question": "How will players discover or earn these unique items?",
+      "options": [
+        "Through completing challenging quests and missions.",
+        "By exploring ancient ruins and dungeons.",
+        "Through interactions with key NPCs and allies.",
+        "As rewards for major story milestones."
+      ]
+    },
+    {
+      "question": "Will there be any special requirements or quests to unlock the power of certain items?",
+      "options": [
+        "Yes, players must complete specific quests to unlock their full potential.",
+        "No, items are fully functional once found.",
+        "Some items have latent powers that require special actions to activate.",
+        "Special rituals or conditions may be needed to fully unlock some items."
+      ]
+    },
+    {
+      "question": "Are there any items that grow in power or evolve with the players?",
+      "options": [
+        "Yes, some items level up with the players.",
+        "No, all items have fixed abilities.",
+        "Certain rare items have the potential to grow in power.",
+        "Items can evolve through specific conditions or achievements."
+      ]
+    },
+    {
+      "question": "How many legendary or artifact-level items will be in the campaign?",
+      "options": [
+        "A handful of legendary items will be present.",
+        "Several artifacts will be scattered throughout the campaign.",
+        "Only one or two truly legendary items will exist.",
+        "Many legendary items will play a role in the story."
+      ]
+    },
+    {
+      "question": "What role will these items play in the overall story?",
+      "options": [
+        "Central to the main plot and critical to the players' success.",
+        "Important but not essential, offering significant benefits.",
+        "Minor role, mostly serving as powerful tools for the players.",
+        "Background elements, enhancing the lore and world-building."
+      ]
+    },
+    {
+      "question": "Will the players need to complete specific challenges or tasks to acquire these items?",
+      "options": [
+        "Yes, each legendary item requires a significant quest to obtain.",
+        "No, they can be found through exploration and luck.",
+        "Some items require specific challenges, others can be found easily.",
+        "Legendary items are rewards for defeating major foes."
+      ]
+    },
+    {
+      "question": "Are there any risks or downsides associated with using these powerful items?",
+      "options": [
+        "Yes, using them may attract powerful enemies or have side effects.",
+        "No, they are purely beneficial.",
+        "Some items have curses or drawbacks.",
+        "Risks vary depending on the item's nature and history."
+      ]
+    },
+    {
+      "question": "How will the players learn about the history and properties of magic items they find?",
+      "options": [
+        "Through identifying spells and abilities.",
+        "By consulting with knowledgeable NPCs or scholars.",
+        "Through ancient tomes and scrolls found during their adventures.",
+        "By experimenting with the items and uncovering their secrets."
+      ]
+    },
+    {
+      "question": "Are there any tomes, scrolls, or sages that can provide information on magic items?",
+      "options": [
+        "Yes, several key locations and NPCs offer this knowledge.",
+        "No, players must rely on their own skills to learn about items.",
+        "Some rare tomes and scrolls are hidden throughout the campaign.",
+        "Knowledgeable NPCs can be found in major cities and guilds."
+      ]
+    },
+    {
+      "question": "Will there be any opportunities for players to uncover lost or forbidden magical knowledge?",
+      "options": [
+        "Yes, through quests and exploring ancient ruins.",
+        "No, all magical knowledge is readily available.",
+        "Some hidden knowledge can be found by solving puzzles or riddles.",
+        "Forbidden knowledge can be obtained but at a great risk."
+      ]
+    },
+    {
+      "question": "How will magical knowledge be disseminated among the players?",
+      "options": [
+        "Through shared libraries and guilds.",
+        "By finding and reading ancient texts and scrolls.",
+        "Through mentorship and training by powerful spellcasters.",
+        "By experimenting and learning through trial and error."
+      ]
+    },
+    {
+      "question": "What role do magical creatures and beings play in the campaign world?",
+      "options": [
+        "Central role, driving much of the story and conflicts.",
+        "Important but secondary, mainly serving as allies or enemies.",
+        "Minor role, with few magical creatures encountered.",
+        "Varied, with some regions having many magical beings and others having none."
+      ]
+    },
+    {
+      "question": "Are there any specific regions or areas known for their magical properties or inhabitants?",
+      "options": [
+        "Yes, several regions are famed for their magical nature.",
+        "No, magic is evenly spread throughout the world.",
+        "Certain hidden or lost areas are rich in magic.",
+        "Magic is concentrated around ancient ruins and sacred sites."
+      ]
+    },
+    {
+      "question": "How do different factions or societies view and interact with magic?",
+      "options": [
+        "Some embrace it and integrate it fully into their culture.",
+        "Others fear and shun it, leading to conflict.",
+        "Different factions have unique relationships with magic.",
+        "Magic is universally respected and valued."
+      ]
+    },
+    {
+      "question": "Are there any natural phenomena or locations that are inherently magical?",
+      "options": [
+        "Yes, several natural sites have strong magical auras.",
+        "No, magic is confined to beings and items.",
+        "Certain rare phenomena can have magical effects.",
+        "Magical locations are tied to the history and lore of the world."
+      ]
+    },
+    {
+      "question": "How will the distribution of magic items be balanced to ensure fairness among players?",
+      "options": [
+        "Magic items will be carefully assigned to ensure balance.",
+        "Random distribution with adjustments for fairness.",
+        "Players will have equal opportunities to earn magic items.",
+        "Magic item distribution will be tied to character development and story."
+      ]
+    },
+    {
+      "question": "How will you handle the potential for certain magic items to overshadow others?",
+      "options": [
+        "Ensure that each item has unique strengths and weaknesses.",
+        "Limit the number of powerful items each player can have.",
+        "Balance encounters and challenges based on the items.",
+        "Adjust item power levels as needed to maintain balance."
+      ]
+    },
+    {
+      "question": "Will there be any checks in place to prevent magic from becoming too powerful or game-breaking?",
+      "options": [
+        "Yes, through careful item design and campaign balance.",
+        "No, players can use items as they see fit.",
+        "Certain powerful items will have restrictions or costs.",
+        "Balance will be maintained through story and encounters."
+      ]
+    },
+    {
+      "question": "How will you ensure that all players feel their characters are equally valued, regardless of their access to magic items?",
+      "options": [
+        "Focus on role-playing and story over mechanics.",
+        "Ensure non-magical items and abilities are equally useful.",
+        "Create opportunities for all characters to shine in their own ways.",
+        "Adjust item distribution and encounter difficulty as needed."
+      ]
+    }
+  ]
+}

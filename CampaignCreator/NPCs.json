@@ -1,0 +1,395 @@
+{
+  "questions": [
+    {
+      "question": "What are the physical descriptions of the major NPCs?",
+      "options": [
+        "Hair color and style",
+        "Eye color",
+        "Height and build",
+        "Notable features (scars, tattoos, etc.)",
+        "Typical clothing and gear"
+      ]
+    },
+    {
+      "question": "What are the personalities and quirks of the NPCs?",
+      "options": [
+        "General demeanor (friendly, aloof, etc.)",
+        "Notable personality traits",
+        "Quirks and habits",
+        "Speech patterns",
+        "Likes and dislikes"
+      ]
+    },
+    {
+      "question": "What are the backstories of the major NPCs?",
+      "options": [
+        "Place of origin",
+        "Family background",
+        "Significant life events",
+        "Past occupations",
+        "Motivations and goals"
+      ]
+    },
+    {
+      "question": "What are the strengths and weaknesses of the NPCs?",
+      "options": [
+        "Physical strengths",
+        "Mental strengths",
+        "Emotional strengths",
+        "Physical weaknesses",
+        "Mental weaknesses",
+        "Emotional weaknesses"
+      ]
+    },
+    {
+      "question": "What are the talents and skills of the NPCs?",
+      "options": [
+        "Combat skills",
+        "Magical abilities",
+        "Crafting or artistic talents",
+        "Social skills",
+        "Survival skills"
+      ]
+    },
+    {
+      "question": "Do any NPCs have hidden agendas or secrets?",
+      "options": [
+        "Secret alliances",
+        "Hidden past events",
+        "Personal ambitions",
+        "Secret weaknesses or vulnerabilities",
+        "Concealed relationships"
+      ]
+    },
+    {
+      "question": "How will NPCs react to the players initially?",
+      "options": [
+        "Friendly and welcoming",
+        "Suspicious and wary",
+        "Hostile and aggressive",
+        "Indifferent and neutral",
+        "Curious and inquisitive"
+      ]
+    },
+    {
+      "question": "How will NPCs' attitudes toward the players change over time?",
+      "options": [
+        "Become more friendly",
+        "Grow more suspicious",
+        "Turn hostile",
+        "Develop trust",
+        "Remain unchanged"
+      ]
+    },
+    {
+      "question": "Are there any specific dialogue options or phrases that should be used with certain NPCs?",
+      "options": [
+        "Formal and respectful language",
+        "Casual and friendly language",
+        "Persuasive and manipulative language",
+        "Aggressive and confrontational language",
+        "Secret or code words"
+      ]
+    },
+    {
+      "question": "How do NPCs interact with each other?",
+      "options": [
+        "Cooperatively",
+        "Competitively",
+        "Hostilely",
+        "Indifferently",
+        "Secretly"
+      ]
+    },
+    {
+      "question": "What alliances or rivalries exist between NPCs?",
+      "options": [
+        "Long-standing friendships",
+        "Family ties",
+        "Political alliances",
+        "Professional rivalries",
+        "Personal grudges"
+      ]
+    },
+    {
+      "question": "How will NPCs grow or change over the course of the campaign?",
+      "options": [
+        "Gain new skills",
+        "Develop new relationships",
+        "Change goals",
+        "Overcome personal flaws",
+        "Face new challenges"
+      ]
+    },
+    {
+      "question": "Are there any specific events that will significantly impact NPCs?",
+      "options": [
+        "Major battles",
+        "Political upheavals",
+        "Personal tragedies",
+        "Significant discoveries",
+        "Heroic deeds"
+      ]
+    },
+    {
+      "question": "Will any NPCs switch allegiances or change their goals?",
+      "options": [
+        "Join the players' cause",
+        "Betray the players",
+        "Abandon their original goals",
+        "Develop new ambitions",
+        "Remain steadfast in their original allegiances"
+      ]
+    },
+    {
+      "question": "What are the potential future roles of NPCs in the campaign?",
+      "options": [
+        "Mentor",
+        "Antagonist",
+        "Ally",
+        "Quest giver",
+        "Background character"
+      ]
+    },
+    {
+      "question": "What roles do the NPCs play in the story?",
+      "options": [
+        "Mentor",
+        "Antagonist",
+        "Ally",
+        "Background character",
+        "Quest giver"
+      ]
+    },
+    {
+      "question": "Are there any NPCs who can offer quests or side missions?",
+      "options": [
+        "Main storyline quests",
+        "Side quests",
+        "Personal missions",
+        "Group missions",
+        "Exploration tasks"
+      ]
+    },
+    {
+      "question": "What services or resources can NPCs provide to the players?",
+      "options": [
+        "Information",
+        "Equipment",
+        "Training",
+        "Shelter",
+        "Transportation"
+      ]
+    },
+    {
+      "question": "How will NPCs influence the players' decisions and actions?",
+      "options": [
+        "Providing guidance",
+        "Offering rewards",
+        "Presenting challenges",
+        "Acting as moral compasses",
+        "Serving as examples"
+      ]
+    },
+    {
+      "question": "What are the combat capabilities of the major NPCs?",
+      "options": [
+        "Melee skills",
+        "Ranged skills",
+        "Magic",
+        "Defense",
+        "Special abilities"
+      ]
+    },
+    {
+      "question": "Do any NPCs have special abilities or spells?",
+      "options": [
+        "Unique spells",
+        "Innate abilities",
+        "Special attacks",
+        "Defensive abilities",
+        "Utility spells"
+      ]
+    },
+    {
+      "question": "How do NPCs handle combat situations strategically?",
+      "options": [
+        "Using terrain to their advantage",
+        "Targeting weaker enemies first",
+        "Coordinating with allies",
+        "Focusing on objectives",
+        "Using special abilities effectively"
+      ]
+    },
+    {
+      "question": "Are there any unique items or equipment that NPCs use?",
+      "options": [
+        "Legendary weapons",
+        "Magic items",
+        "Custom armor",
+        "Alchemical items",
+        "Enchanted accessories"
+      ]
+    },
+    {
+      "question": "What rewards can NPCs offer to the players?",
+      "options": [
+        "Gold",
+        "Magic items",
+        "Information",
+        "Alliances",
+        "Training"
+      ]
+    },
+    {
+      "question": "What consequences might players face if they betray or harm NPCs?",
+      "options": [
+        "Loss of allies",
+        "Bounty on their heads",
+        "Reputation damage",
+        "Retaliation",
+        "Loss of resources"
+      ]
+    },
+    {
+      "question": "How will NPCs respond to players completing or failing missions?",
+      "options": [
+        "Offer rewards",
+        "Provide new missions",
+        "Withdraw support",
+        "React with hostility",
+        "Remain indifferent"
+      ]
+    },
+    {
+      "question": "Are there any specific conditions under which NPCs will change their behavior or stance toward the players?",
+      "options": [
+        "Players' actions",
+        "Revealed secrets",
+        "Changes in the world",
+        "Other NPCs' influence",
+        "Personal growth"
+      ]
+    },
+    {
+      "question": "What are the cultural or regional backgrounds of the NPCs?",
+      "options": [
+        "Hometown",
+        "Ethnic background",
+        "Cultural traditions",
+        "Regional politics",
+        "Local customs"
+      ]
+    },
+    {
+      "question": "Are there any important historical events that have shaped the NPCs?",
+      "options": [
+        "Wars",
+        "Revolutions",
+        "Disasters",
+        "Major discoveries",
+        "Personal milestones"
+      ]
+    },
+    {
+      "question": "What relationships do NPCs have with other notable figures or factions in the world?",
+      "options": [
+        "Alliances",
+        "Rivalries",
+        "Family ties",
+        "Political connections",
+        "Professional relationships"
+      ]
+    },
+    {
+      "question": "How do NPCs view the major events and conflicts in the campaign?",
+      "options": [
+        "Supportive",
+        "Opposed",
+        "Neutral",
+        "Indifferent",
+        "Actively involved"
+      ]
+    },
+    {
+      "question": "How will NPCs behave in social settings or public gatherings?",
+      "options": [
+        "Charismatic and engaging",
+        "Reserved and quiet",
+        "Boisterous and loud",
+        "Suspicious and guarded",
+        "Friendly and open"
+      ]
+    },
+    {
+      "question": "What daily routines or habits do NPCs have?",
+      "options": [
+        "Morning rituals",
+        "Work schedules",
+        "Leisure activities",
+        "Social interactions",
+        "Nighttime routines"
+      ]
+    },
+    {
+      "question": "How do NPCs react to the environment and the world around them?",
+      "options": [
+        "Adapt quickly",
+        "Struggle to adjust",
+        "Show curiosity",
+        "React with fear",
+        "Remain indifferent"
+      ]
+    },
+    {
+      "question": "Are there any unique speech patterns or accents for the NPCs?",
+      "options": [
+        "Regional accents",
+        "Formal speech",
+        "Colloquial language",
+        "Unique phrases",
+        "Unusual vocal traits"
+      ]
+    },
+    {
+      "question": "How will NPCs' information be tracked and updated?",
+      "options": [
+        "Digital database",
+        "Handwritten notes",
+        "Spreadsheets",
+        "Dedicated software",
+        "Campaign journal"
+      ]
+    },
+    {
+      "question": "Are there specific templates or formats for documenting NPCs?",
+      "options": [
+        "Character sheets",
+        "Profile summaries",
+        "Narrative descriptions",
+        "Stat blocks",
+        "Interaction logs"
+      ]
+    },
+    {
+      "question": "How will changes in NPCs' relationships and statuses be recorded?",
+      "options": [
+        "Update character sheets",
+        "Log interactions",
+        "Note significant events",
+        "Adjust narrative descriptions",
+        "Record in campaign journal"
+      ]
+    },
+    {
+      "question": "What tools or resources will be used to manage NPC interactions and events?",
+      "options": [
+        "Campaign management software",
+        "Physical notes and journals",
+        "Digital spreadsheets",
+        "Online databases",
+        "Collaborative platforms"
+      ]
+    }
+  ]
+}

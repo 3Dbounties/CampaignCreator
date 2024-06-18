@@ -1,0 +1,659 @@
+{
+  "questions": [
+    {
+      "question": "What is the overall theme or tone of the campaign?",
+      "options": [
+        "Dark",
+        "Heroic",
+        "Comedic",
+        "Epic",
+        "Mystery",
+        "Political Intrigue",
+        "Survival",
+        "Exploration",
+        "High Fantasy",
+        "Grimdark"
+      ]
+    },
+    {
+      "question": "What inspirations (books, movies, other games) influence this theme?",
+      "options": [
+        "J.R.R. Tolkien's Middle-earth",
+        "R.A. Salvatore's Forgotten Realms",
+        "George R.R. Martin's Westeros",
+        "Terry Pratchett's Discworld",
+        "H.P. Lovecraft's Cthulhu Mythos",
+        "Arthurian Legends",
+        "Greek Mythology",
+        "Gothic Horror",
+        "Norse Mythology",
+        "Cyberpunk"
+      ]
+    },
+    {
+      "question": "How will the theme influence the campaign's atmosphere and story arcs?",
+      "options": [
+        "Dark and Gritty",
+        "Bright and Optimistic",
+        "Light-hearted and Funny",
+        "Tense and Suspenseful",
+        "Grand and Epic",
+        "Complex and Intricate",
+        "Harsh and Unforgiving",
+        "Mysterious and Enigmatic",
+        "Traditional and Mythical",
+        "Futuristic and Tech-heavy"
+      ]
+    },
+    {
+      "question": "What level will players begin at?",
+      "options": [
+        "Level 1",
+        "Level 3",
+        "Level 5",
+        "Level 7"
+      ]
+    },
+    {
+      "question": "What is the expected level progression by the end of the campaign?",
+      "options": [
+        "Level 10",
+        "Level 15",
+        "Level 20"
+      ]
+    },
+    {
+      "question": "How quickly will players level up?",
+      "options": [
+        "Fast",
+        "Moderate",
+        "Slow"
+      ]
+    },
+    {
+      "question": "What is the end goal of the campaign?",
+      "options": [
+        "Defeat a Great Evil",
+        "Restore a Lost Kingdom",
+        "Find a Legendary Artifact",
+        "Uncover Ancient Secrets",
+        "Save the World from a Catastrophe",
+        "Ascend to Godhood",
+        "Establish a New Order",
+        "Reclaim Personal Honor or Vengeance",
+        "Protect a Sacred Place",
+        "Solve a World-Spanning Mystery"
+      ]
+    },
+    {
+      "question": "What are the key milestones or intermediate goals leading to the end goal?",
+      "options": [
+        "Gain Allies",
+        "Recover Key Artifacts",
+        "Defeat Major Villains",
+        "Discover Critical Information",
+        "Secure Strategic Locations",
+        "Complete Personal Character Goals",
+        "Survive Major Battles",
+        "Uncover Betrayals",
+        "Solve Major Puzzles or Riddles",
+        "Explore and Map Unknown Territories"
+      ]
+    },
+    {
+      "question": "How will the players know they are progressing toward the end goal?",
+      "options": [
+        "Quest Logs",
+        "Story Milestones",
+        "NPC Guidance",
+        "Visual Cues",
+        "In-Game Rewards",
+        "Player Recognition",
+        "Narrative Events",
+        "Journal Entries",
+        "World Changes",
+        "Feedback from DM"
+      ]
+    },
+    {
+      "question": "How many different parts or acts will there be?",
+      "options": [
+        "Three-Act Structure",
+        "Four Acts",
+        "Five Acts",
+        "Six Acts"
+      ]
+    },
+    {
+      "question": "What is the main focus of each part or act?",
+      "options": [
+        "Introduction and Setup",
+        "Rising Action and Exploration",
+        "Conflict and Challenges",
+        "Climax and Major Turning Points",
+        "Resolution and Conclusion",
+        "Epilogue and Aftermath"
+      ]
+    },
+    {
+      "question": "Are there specific turning points or climaxes in each part?",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "question": "What is the primary setting of the campaign?",
+      "options": [
+        "City",
+        "Wilderness",
+        "Dungeon",
+        "Seafaring",
+        "Underdark",
+        "Planar",
+        "Desert",
+        "Arctic",
+        "Forest",
+        "Urban"
+      ]
+    },
+    {
+      "question": "Will the setting change significantly over the course of the campaign?",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "question": "What are the key locations within the primary setting?",
+      "options": [
+        "Major Cities",
+        "Ancient Ruins",
+        "Sacred Temples",
+        "Hidden Villages",
+        "Mysterious Forests",
+        "Treacherous Mountains",
+        "Haunted Castles",
+        "Underground Caverns",
+        "Magical Towers",
+        "Battlefields"
+      ]
+    },
+    {
+      "question": "Will the campaign be linear, sandbox, or a mix of both?",
+      "options": [
+        "Linear",
+        "Sandbox",
+        "Mix of Both"
+      ]
+    },
+    {
+      "question": "How will you balance player freedom with plot progression?",
+      "options": [
+        "Player-Driven with Loose Plot",
+        "Balanced Player Freedom and Plot",
+        "Plot-Driven with Limited Freedom"
+      ]
+    },
+    {
+      "question": "Are there specific events that must occur to drive the story forward?",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "question": "How will character backstories be integrated into the campaign?",
+      "options": [
+        "Major Plot Points",
+        "Minor Side Quests",
+        "Background NPCs and Factions",
+        "Personal Flashbacks",
+        "Custom Character Arcs"
+      ]
+    },
+    {
+      "question": "Are there specific moments or events planned that will tie into each character's backstory?",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "question": "How will NPCs or factions be connected to the characters' pasts?",
+      "options": [
+        "Family Ties",
+        "Old Rivals",
+        "Former Allies",
+        "Ancient Foes",
+        "Mentors and Teachers",
+        "Love Interests",
+        "Shared Histories",
+        "Mystical Connections",
+        "Common Goals",
+        "Sworn Oaths"
+      ]
+    },
+    {
+      "question": "What is the campaign's central conflict?",
+      "options": [
+        "War between Kingdoms",
+        "Invasion of Monsters",
+        "Rise of an Evil Cult",
+        "Natural Catastrophe",
+        "Political Intrigue",
+        "Magical Disruption",
+        "Alien Invasion",
+        "Technological Uprising",
+        "Class Struggle",
+        "Personal Vendetta"
+      ]
+    },
+    {
+      "question": "What forces or events are driving this conflict?",
+      "options": [
+        "Power Struggle",
+        "Ancient Prophecy",
+        "Revenge",
+        "Survival",
+        "Duty and Honor",
+        "Personal Freedom",
+        "Racial Tensions",
+        "Mystical Forces",
+        "Corruption",
+        "Unforeseen Consequences"
+      ]
+    },
+    {
+      "question": "How can the players impact the resolution of this conflict?",
+      "options": [
+        "Direct Confrontation",
+        "Diplomatic Solutions",
+        "Strategic Alliances",
+        "Espionage and Sabotage",
+        "Gathering Ancient Knowledge",
+        "Sacrifices and Heroic Acts",
+        "Uniting Diverse Factions",
+        "Tactical Warfare",
+        "Magical Solutions",
+        "Technological Advancements"
+      ]
+    },
+    {
+      "question": "What is the desired pacing of the campaign?",
+      "options": [
+        "Fast-Paced",
+        "Steady and Balanced",
+        "Slow and Methodical"
+      ]
+    },
+    {
+      "question": "How will you manage the flow of action, exploration, and downtime?",
+      "options": [
+        "Pre-Determined Intervals",
+        "Player-Driven Decisions",
+        "Dynamic Based on Story Events",
+        "DM-Discretion Based on Player Engagement"
+      ]
+    },
+    {
+      "question": "What tools or methods will you use to keep players engaged?",
+      "options": [
+        "Intriguing NPCs",
+        "Engaging Combat Encounters",
+        "Challenging Puzzles and Riddles",
+        "Rewarding Exploration",
+        "Rich Lore and Background",
+        "Personal Character Arcs",
+        "Dynamic World Events",
+        "Interactive World Environment",
+        "Meaningful Choices and Consequences",
+        "Regular Recaps and Summaries"
+      ]
+    },
+    {
+      "question": "What themes or messages do you want to explore?",
+      "options": [
+        "Good vs. Evil",
+        "Power and Corruption",
+        "Loyalty and Betrayal",
+        "Sacrifice and Redemption",
+        "Freedom and Oppression",
+        "Destiny and Free Will",
+        "Unity and Division",
+        "Faith and Doubt",
+        "Love and Loss",
+        "Tradition and Change"
+      ]
+    },
+    {
+      "question": "How will these themes be reflected in the world and story?",
+      "options": [
+        "Symbolic Locations",
+        "Recurring Motifs",
+        "Character Archetypes",
+        "Key Plot Events",
+        "Narrative Tone and Style",
+        "NPC Dialogues and Choices",
+        "Environmental Storytelling",
+        "Artifacts and Relics",
+        "Cultural Norms and Laws",
+        "Faction Beliefs and Actions"
+      ]
+    },
+    {
+      "question": "Are there any moral or ethical questions you want the players to confront?",
+      "options": [
+        "Means vs. Ends",
+        "Justice vs. Mercy",
+        "Truth vs. Deception",
+        "Freedom vs. Security",
+        "Duty vs. Desire",
+        "Survival vs. Sacrifice",
+        "Loyalty vs. Independence",
+        "Tradition vs. Innovation",
+        "Faith vs. Reason",
+        "Wealth vs. Integrity"
+      ]
+    },
+    {
+      "question": "What is the expected playstyle of the campaign?",
+      "options": [
+        "Combat-Focused",
+        "Role-Playing Intensive",
+        "Exploration Heavy",
+        "Balanced Approach"
+      ]
+    },
+    {
+      "question": "How will you accommodate different playstyles within the group?",
+      "options": [
+        "Diverse Encounter Types",
+        "Flexible Plot Hooks",
+        "Player Choice Emphasis",
+        "Adaptive Difficulty",
+        "Role-Playing Incentives",
+        "Varied Rewards",
+        "Open Communication with Players",
+        "Customizable Character Arcs",
+        "Dynamic World Events",
+        "Side Quests and Optional Content"
+      ]
+    },
+    {
+      "question": "What is the campaign's overall narrative structure?",
+      "options": [
+        "Linear Storyline",
+        "Branching Plotlines",
+        "Episodic Adventures",
+        "Flashbacks and Foreshadowing",
+        "Parallel Narratives",
+        "Player-Led Storytelling"
+      ]
+    },
+    {
+      "question": "Is there a particular storytelling technique you will employ?",
+      "options": [
+        "Flashbacks",
+        "Parallel Narratives",
+        "Player-Led Storytelling",
+        "Dynamic Plot Adjustments"
+      ]
+    },
+    {
+      "question": "How will you handle story continuity and coherence?",
+      "options": [
+        "Detailed Session Notes",
+        "Consistent World Rules",
+        "Recurring Themes and Motifs",
+        "Character Development Tracking",
+        "Regular Recaps",
+        "Established World Lore",
+        "Player Input and Feedback",
+        "Timeline Management",
+        "Interconnected NPCs and Events",
+        "Dynamic Plot Adjustments"
+      ]
+    },
+    {
+      "question": "How will you handle character development and growth?",
+      "options": [
+        "Personal Quests and Arcs",
+        "Moral and Ethical Dilemmas",
+        "Relationships with NPCs",
+        "Evolution of Character Traits",
+        "Milestone Achievements",
+        "Player-Driven Goals",
+        "Dynamic World Reactions",
+        "Recognition and Reputation",
+        "Emotional and Psychological Growth",
+        "Inter-Character Conflicts and Bonds"
+      ]
+    },
+    {
+      "question": "What opportunities will there be for character arcs and personal growth?",
+      "options": [
+        "Personal Quests",
+        "Group Objectives",
+        "Dynamic World Reactions",
+        "Recognition and Reputation",
+        "Emotional and Psychological Growth",
+        "Inter-Character Conflicts",
+        "Relationships with NPCs",
+        "Moral and Ethical Dilemmas",
+        "Evolution of Character Traits",
+        "Milestone Achievements"
+      ]
+    },
+    {
+      "question": "How will the world react to the players' actions and decisions?",
+      "options": [
+        "Dynamic World Events",
+        "NPC Reactions",
+        "Story Milestones",
+        "Player Recognition",
+        "World Changes",
+        "Consequences of Choices",
+        "Environmental Storytelling",
+        "Faction Reactions",
+        "Narrative Adjustments",
+        "Feedback from DM"
+      ]
+    },
+    {
+      "question": "What are the key themes or motifs in the campaign?",
+      "options": [
+        "Redemption",
+        "Betrayal",
+        "Power",
+        "Sacrifice",
+        "Honor",
+        "Freedom",
+        "Justice",
+        "Love",
+        "Tradition",
+        "Destiny"
+      ]
+    },
+    {
+      "question": "How will these be reflected in the setting, plot, and characters?",
+      "options": [
+        "Symbolic Locations",
+        "Recurring Motifs",
+        "Character Archetypes",
+        "Key Plot Events",
+        "Narrative Tone and Style",
+        "NPC Dialogues and Choices",
+        "Environmental Storytelling",
+        "Artifacts and Relics",
+        "Cultural Norms and Laws",
+        "Faction Beliefs and Actions"
+      ]
+    },
+    {
+      "question": "Are there recurring symbols or elements that reinforce these themes?",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "question": "What is the role of magic and technology in the campaign?",
+      "options": [
+        "High Magic, Low Technology",
+        "Low Magic, High Technology",
+        "Balanced Magic and Technology",
+        "Unique Magical Elements",
+        "Ancient Forgotten Technologies",
+        "Magic as Commonplace",
+        "Technological Advancements",
+        "Magic-Infused Technology",
+        "Magical Catastrophes",
+        "Technological Revolutions"
+      ]
+    },
+    {
+      "question": "How prevalent is magic in the world?",
+      "options": [
+        "Common",
+        "Rare",
+        "Legendary",
+        "Forbidden"
+      ]
+    },
+    {
+      "question": "Are there unique magical or technological elements that will play a significant role?",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "question": "How will the campaign handle player death and failure?",
+      "options": [
+        "Permadeath",
+        "Resurrection Possibilities",
+        "Temporary Setbacks",
+        "Permanent Consequences",
+        "Character Replacements",
+        "Story-Driven Outcomes",
+        "Failure as Plot Device",
+        "Heroic Sacrifices",
+        "Player Choice in Consequences",
+        "Risk and Reward Balance"
+      ]
+    },
+    {
+      "question": "What are the consequences of player death or mission failure?",
+      "options": [
+        "Loss of Progress",
+        "Story Adjustments",
+        "Permanent Character Loss",
+        "New Challenges",
+        "Group Setbacks",
+        "Individual Penalties",
+        "New Plot Opportunities",
+        "Character Legacy",
+        "Environmental Changes",
+        "Faction Reactions"
+      ]
+    },
+    {
+      "question": "How can players recover or continue after a significant setback?",
+      "options": [
+        "New Quests",
+        "Resurrection Rituals",
+        "Allied Assistance",
+        "Alternate Paths",
+        "Recovery Missions",
+        "Divine Intervention",
+        "Magic Items",
+        "Plot Twists",
+        "Character Replacement",
+        "Time Jumps"
+      ]
+    },
+    {
+      "question": "What is the overarching story or mythology of the campaign world?",
+      "options": [
+        "Creation Myths",
+        "Lost Civilizations",
+        "Legendary Heroes",
+        "Ancient Prophecies",
+        "Divine Interventions",
+        "Epic Wars",
+        "Mystical Artifacts",
+        "Hidden Secrets",
+        "Celestial Alignments",
+        "Forgotten Realms Lore"
+      ]
+    },
+    {
+      "question": "How does this mythology influence current events and the players' quests?",
+      "options": [
+        "Prophecies",
+        "Ancient Artifacts",
+        "Forgotten Lore",
+        "Legendary Figures",
+        "Divine Guidance",
+        "Historical Conflicts",
+        "Mystical Forces",
+        "Recurring Villains",
+        "Celestial Events",
+        "Cultural Traditions"
+      ]
+    },
+    {
+      "question": "Are there legendary figures or ancient events that will be important to the story?",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "question": "What tone do you want to set for player interactions?",
+      "options": [
+        "Collaborative and Supportive",
+        "Competitive and Challenging",
+        "Light-hearted and Fun",
+        "Serious and Intense",
+        "Strategic and Tactical",
+        "Immersive and Theatrical",
+        "Friendly and Relaxed",
+        "Dramatic and Emotional",
+        "Mysterious and Enigmatic",
+        "Adventurous and Bold"
+      ]
+    },
+    {
+      "question": "How will you encourage collaboration and teamwork?",
+      "options": [
+        "Group Objectives",
+        "Shared Resources",
+        "Interdependent Abilities",
+        "Team-Based Challenges",
+        "Cooperative Role-Playing",
+        "Mutual Goals and Rewards",
+        "Communication Emphasis",
+        "Trust-Building Scenarios",
+        "Shared Backstories",
+        "Conflict Resolution Mechanisms"
+      ]
+    },
+    {
+      "question": "What guidelines will you set for in-character and out-of-character behavior?",
+      "options": [
+        "Respectful Communication",
+        "Clear Boundaries",
+        "Consent and Comfort",
+        "Fair Play",
+        "Focus on Fun",
+        "Encouraging Creativity",
+        "Active Participation",
+        "Inclusivity and Diversity",
+        "Regular Feedback",
+        "Conflict Mediation"
+      ]
+    }
+  ]
+}

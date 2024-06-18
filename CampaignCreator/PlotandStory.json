@@ -1,0 +1,372 @@
+{
+  "questions": [
+    {
+      "question": "How will you handle resources like food, water, and ammunition?",
+      "options": [
+        "Track each resource individually for realism.",
+        "Abstract resources to simplify gameplay.",
+        "Use a hybrid approach, tracking important resources only."
+      ]
+    },
+    {
+      "question": "Who are the key player characters and their backgrounds?",
+      "options": [
+        "A paladin seeking redemption.",
+        "A rogue with a mysterious past.",
+        "A wizard with a thirst for knowledge.",
+        "A ranger protecting their homeland."
+      ]
+    },
+    {
+      "question": "What motivates the player characters to join the adventure?",
+      "options": [
+        "Personal revenge.",
+        "Seeking treasure and glory.",
+        "A sense of duty or responsibility.",
+        "Curiosity and the desire for knowledge."
+      ]
+    },
+    {
+      "question": "How do the characters' personal stories tie into the main plot?",
+      "options": [
+        "Their backstories are linked to key NPCs.",
+        "Their goals align with the main quest.",
+        "Their past actions have influenced the current events.",
+        "They have personal stakes in the outcome of the main plot."
+      ]
+    },
+    {
+      "question": "What personal stakes do the player characters have in the campaign?",
+      "options": [
+        "Family or friends in danger.",
+        "A personal vendetta.",
+        "A lost artifact of great importance.",
+        "A chance for redemption."
+      ]
+    },
+    {
+      "question": "Are there any legendary heroes or mentors in the campaign?",
+      "options": [
+        "A retired adventurer who offers guidance.",
+        "A mythical figure whose actions influence the world.",
+        "A powerful mage who serves as a mentor.",
+        "A revered warrior who inspires the characters."
+      ]
+    },
+    {
+      "question": "What is the historical context of the campaign setting?",
+      "options": [
+        "A recent war that has left the land in turmoil.",
+        "An ancient prophecy that is beginning to unfold.",
+        "A long-standing peace threatened by new conflicts.",
+        "The rise and fall of a great empire."
+      ]
+    },
+    {
+      "question": "Are there any prophecies or legends that play a role in the story?",
+      "options": [
+        "A prophecy that predicts a great hero's arrival.",
+        "Legends of a hidden treasure.",
+        "Tales of a long-forgotten kingdom.",
+        "A curse that affects the land."
+      ]
+    },
+    {
+      "question": "How does the world react to the actions of the player characters?",
+      "options": [
+        "The world changes based on their decisions.",
+        "NPCs react differently based on their reputation.",
+        "Their actions influence political and social dynamics.",
+        "Their fame or infamy grows as they progress."
+      ]
+    },
+    {
+      "question": "What are the major cultural or societal influences in the setting?",
+      "options": [
+        "A dominant religion or belief system.",
+        "A powerful guild or organization.",
+        "A prevalent social hierarchy or caste system.",
+        "Cultural traditions and festivals."
+      ]
+    },
+    {
+      "question": "Are there any significant political or social dynamics in the setting?",
+      "options": [
+        "Rival kingdoms vying for power.",
+        "A rebellion against a tyrannical ruler.",
+        "Tensions between different races or factions.",
+        "A powerful merchant guild influencing politics."
+      ]
+    },
+    {
+      "question": "How does the campaign begin?",
+      "options": [
+        "The characters are brought together by a common threat.",
+        "They are hired for a specific mission.",
+        "They stumble upon an important event or discovery.",
+        "A call to adventure reaches them."
+      ]
+    },
+    {
+      "question": "What are the initial inciting incidents that set the plot in motion?",
+      "options": [
+        "A mysterious disappearance.",
+        "An attack on a village or town.",
+        "The discovery of an ancient artifact.",
+        "A summons from a powerful figure."
+      ]
+    },
+    {
+      "question": "What are the key milestones or turning points in the story?",
+      "options": [
+        "Discovering a crucial piece of information.",
+        "Defeating a significant enemy.",
+        "Forming an important alliance.",
+        "Overcoming a major obstacle."
+      ]
+    },
+    {
+      "question": "How does the plot escalate as the campaign progresses?",
+      "options": [
+        "The stakes become higher and more personal.",
+        "New and more powerful enemies appear.",
+        "Complex moral dilemmas arise.",
+        "The characters uncover deeper conspiracies."
+      ]
+    },
+    {
+      "question": "What are the possible climactic events?",
+      "options": [
+        "A final battle against a major antagonist.",
+        "The resolution of a key prophecy.",
+        "A dramatic rescue mission.",
+        "The unveiling of a hidden truth."
+      ]
+    },
+    {
+      "question": "What are the central themes of the campaign?",
+      "options": [
+        "Redemption.",
+        "Betrayal.",
+        "Heroism.",
+        "Sacrifice."
+      ]
+    },
+    {
+      "question": "Are there any recurring motifs or symbols throughout the story?",
+      "options": [
+        "A particular emblem or sigil.",
+        "A recurring dream or vision.",
+        "Symbols of an ancient civilization.",
+        "Motifs related to a specific element or animal."
+      ]
+    },
+    {
+      "question": "How do the themes influence the actions and decisions of the characters?",
+      "options": [
+        "Their decisions are shaped by their desire for redemption.",
+        "They face constant tests of loyalty and trust.",
+        "They are driven by a sense of duty and heroism.",
+        "They must make sacrifices for the greater good."
+      ]
+    },
+    {
+      "question": "What are the motivations and goals of the main antagonists?",
+      "options": [
+        "Desire for power and control.",
+        "Seeking revenge for a past wrong.",
+        "Belief in a misguided cause.",
+        "Personal gain or wealth."
+      ]
+    },
+    {
+      "question": "What are the weaknesses or vulnerabilities of the antagonists?",
+      "options": [
+        "A hidden past or secret.",
+        "Overconfidence or hubris.",
+        "A physical or magical limitation.",
+        "A loved one they care about."
+      ]
+    },
+    {
+      "question": "How do the antagonists' actions shape the plot?",
+      "options": [
+        "Their schemes create obstacles for the characters.",
+        "Their presence adds tension and danger.",
+        "They force the characters to make difficult choices.",
+        "Their goals conflict with the characters' objectives."
+      ]
+    },
+    {
+      "question": "Are there any redemption arcs for any of the villains?",
+      "options": [
+        "A villain seeking forgiveness.",
+        "A change of heart due to the characters' influence.",
+        "A tragic past revealed, leading to redemption.",
+        "A former antagonist becoming an ally."
+      ]
+    },
+    {
+      "question": "What are the relationships between different antagonists?",
+      "options": [
+        "Rivalries and alliances among villains.",
+        "A hierarchy of power within the antagonists' ranks.",
+        "Betrayals and backstabbing among them.",
+        "Shared goals but differing methods."
+      ]
+    },
+    {
+      "question": "What internal conflicts do the player characters face?",
+      "options": [
+        "Struggles with their past actions.",
+        "Conflicting loyalties or duties.",
+        "Personal doubts and fears.",
+        "Moral dilemmas and ethical choices."
+      ]
+    },
+    {
+      "question": "How do external conflicts drive the story forward?",
+      "options": [
+        "Battles against powerful enemies.",
+        "Political intrigue and manipulation.",
+        "Rescuing allies or innocents.",
+        "Solving mysteries and uncovering secrets."
+      ]
+    },
+    {
+      "question": "What moral or ethical dilemmas will the players encounter?",
+      "options": [
+        "Choosing between the lesser of two evils.",
+        "Sacrificing one for the greater good.",
+        "Upholding personal values versus pragmatic decisions.",
+        "Trusting a former enemy."
+      ]
+    },
+    {
+      "question": "How are conflicts resolved throughout the campaign?",
+      "options": [
+        "Through combat and confrontation.",
+        "Diplomacy and negotiation.",
+        "Clever problem-solving and strategy.",
+        "Moral choices and sacrifices."
+      ]
+    },
+    {
+      "question": "Are there any unresolved conflicts that could lead to future adventures?",
+      "options": [
+        "A powerful enemy escapes.",
+        "A mystery remains unsolved.",
+        "A new threat emerges.",
+        "An ally's fate is uncertain."
+      ]
+    },
+    {
+      "question": "What mysteries or secrets are the players meant to uncover?",
+      "options": [
+        "The true identity of a key figure.",
+        "The location of a hidden treasure.",
+        "The history of an ancient civilization.",
+        "The motives behind a conspiracy."
+      ]
+    },
+    {
+      "question": "How do these mysteries tie into the main plot?",
+      "options": [
+        "They reveal crucial information for the quest.",
+        "They provide context and background for events.",
+        "They connect the characters to the central conflict.",
+        "They introduce new challenges and goals."
+      ]
+    },
+    {
+      "question": "What clues will be provided to the players?",
+      "options": [
+        "Cryptic messages and riddles.",
+        "Ancient texts and maps.",
+        "Witness testimonies and rumors.",
+        "Magical visions and dreams."
+      ]
+    },
+    {
+      "question": "How are secrets revealed over the course of the campaign?",
+      "options": [
+        "Gradually through exploration and discovery.",
+        "Through interactions with NPCs.",
+        "As rewards for completing quests.",
+        "During key story events."
+      ]
+    },
+    {
+      "question": "What emotional journeys do the player characters experience?",
+      "options": [
+        "Overcoming personal loss or trauma.",
+        "Building trust and friendships.",
+        "Facing their fears and insecurities.",
+        "Finding hope and redemption."
+      ]
+    },
+    {
+      "question": "How does the story challenge the characters' beliefs or values?",
+      "options": [
+        "By presenting moral dilemmas.",
+        "Through interactions with complex NPCs.",
+        "By forcing difficult choices.",
+        "By testing their commitment to their goals."
+      ]
+    },
+    {
+      "question": "How do the relationships between characters evolve?",
+      "options": [
+        "Through shared experiences and challenges.",
+        "By overcoming conflicts and misunderstandings.",
+        "Through acts of trust and sacrifice.",
+        "By supporting each other in times of need."
+      ]
+    },
+    {
+      "question": "Are there any moments designed to evoke strong emotional responses?",
+      "options": [
+        "Dramatic reveals and plot twists.",
+        "Heartfelt character interactions.",
+        "Intense battles and sacrifices.",
+        "Moments of triumph and loss."
+      ]
+    },
+    {
+      "question": "How is the pacing of the story managed?",
+      "options": [
+        "Balancing action and downtime.",
+        "Using cliffhangers to maintain tension.",
+        "Gradual escalation of stakes.",
+        "Alternating between different types of encounters."
+      ]
+    },
+    {
+      "question": "What slower, character-driven moments are included?",
+      "options": [
+        "Character backstory revelations.",
+        "Personal quests and side stories.",
+        "Interactions with NPCs.",
+        "Scenes of rest and recovery."
+      ]
+    },
+    {
+      "question": "How do action-packed sequences balance with quieter scenes?",
+      "options": [
+        "Alternating between high stakes and low stakes.",
+        "Using quiet moments for character development.",
+        "Providing variety in types of encounters.",
+        "Allowing time for reflection after major events."
+      ]
+    },
+    {
+      "question": "How is tension maintained throughout the campaign?",
+      "options": [
+        "Using foreshadowing and suspense.",
+        "Introducing new threats and challenges.",
+        "Building up to major confrontations.",
+        "Keeping the characters uncertain of outcomes."
+      ]
+    }
+  ]
+}

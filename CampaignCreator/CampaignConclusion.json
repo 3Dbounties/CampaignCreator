@@ -1,0 +1,220 @@
+{
+  "questions": [
+    {
+      "question": "What are the primary goals that need to be achieved for the campaign to be considered complete?",
+      "options": [
+        "Defeat the main antagonist",
+        "Recover the lost artifact",
+        "Save the village from destruction",
+        "Uncover the ancient secret"
+      ]
+    },
+    {
+      "question": "Are there any specific milestones or events that signal the approaching end of the campaign?",
+      "options": [
+        "The discovery of the final dungeon",
+        "A significant betrayal by an NPC",
+        "The gathering of all magical items",
+        "The revelation of the antagonist's plan"
+      ]
+    },
+    {
+      "question": "How flexible is the conclusion? Can it adapt to different player actions and decisions?",
+      "options": [
+        "The conclusion is fixed and cannot be changed",
+        "The conclusion can adapt to player actions",
+        "There are multiple possible endings",
+        "Player decisions heavily influence the outcome"
+      ]
+    },
+    {
+      "question": "How will major player decisions throughout the campaign influence the final outcome?",
+      "options": [
+        "Determine the fate of the main antagonist",
+        "Affect the survival of key NPCs",
+        "Change the political landscape",
+        "Alter the state of the game world"
+      ]
+    },
+    {
+      "question": "Are there any critical choices or turning points that will significantly alter the ending?",
+      "options": [
+        "Choosing to ally with a powerful NPC",
+        "Deciding to spare or kill a major villain",
+        "Recovering or destroying a pivotal artifact",
+        "Completing or abandoning a major quest"
+      ]
+    },
+    {
+      "question": "What long-term consequences will player actions have on the game world?",
+      "options": [
+        "Establishment of new alliances",
+        "Destruction of key locations",
+        "Changes in regional power dynamics",
+        "Lasting impacts on NPC relationships"
+      ]
+    },
+    {
+      "question": "How will unresolved plot points be addressed in the final sessions?",
+      "options": [
+        "Quickly summarized by the DM",
+        "Incorporated into the final battles",
+        "Left as mysteries for future campaigns",
+        "Resolved through player epilogues"
+      ]
+    },
+    {
+      "question": "Are there any secondary storylines or character arcs that need closure?",
+      "options": [
+        "Yes, they will be addressed in the epilogue",
+        "No, they will remain open-ended",
+        "Some will be resolved, others will not",
+        "They will be resolved through side quests"
+      ]
+    },
+    {
+      "question": "How will you handle unfinished side quests or personal goals of the players?",
+      "options": [
+        "Allow players to complete them in the final sessions",
+        "Summarize the outcomes during the epilogue",
+        "Incorporate them into future campaigns",
+        "Leave them as open-ended possibilities"
+      ]
+    },
+    {
+      "question": "Will there be an epilogue to highlight the long-term effects of the players' actions?",
+      "options": [
+        "Yes, a detailed epilogue",
+        "No, the campaign ends with the final battle",
+        "A brief summary epilogue",
+        "Player-driven epilogue scenes"
+      ]
+    },
+    {
+      "question": "How will the final scene be structured to provide a satisfying conclusion?",
+      "options": [
+        "A dramatic showdown with the main antagonist",
+        "A celebratory gathering of the heroes",
+        "A reflective moment for each character",
+        "A combination of action and reflection"
+      ]
+    },
+    {
+      "question": "Will each player character have a moment to reflect on their journey and contributions?",
+      "options": [
+        "Yes, during the final session",
+        "Yes, in the epilogue",
+        "No, the focus is on the main story",
+        "Only if time permits"
+      ]
+    },
+    {
+      "question": "Is there a plan for a direct sequel or a related campaign set in the same world?",
+      "options": [
+        "Yes, a direct sequel",
+        "Yes, a related campaign",
+        "No, this campaign is standalone",
+        "Possibly, depending on player interest"
+      ]
+    },
+    {
+      "question": "How will the events of this campaign influence potential future adventures?",
+      "options": [
+        "Establishing new threats",
+        "Creating lasting changes in the world",
+        "Introducing new NPCs",
+        "Setting up future plotlines"
+      ]
+    },
+    {
+      "question": "Will there be recurring characters or locations in the follow-up campaign?",
+      "options": [
+        "Yes, many will return",
+        "Yes, a few key ones",
+        "No, entirely new characters and locations",
+        "Possibly, depending on the story"
+      ]
+    },
+    {
+      "question": "Will there be an opportunity for players to continue exploring the world after the main plot concludes?",
+      "options": [
+        "Yes, with additional quests",
+        "Yes, in a free-form setting",
+        "No, the campaign will end",
+        "Possibly, with DM discretion"
+      ]
+    },
+    {
+      "question": "How will you handle character progression and rewards in a post-campaign setting?",
+      "options": [
+        "Continue leveling up",
+        "Introduce new rewards",
+        "Focus on story over mechanics",
+        "Provide minimal progression"
+      ]
+    },
+    {
+      "question": "Are there any additional challenges or adventures available for players who wish to continue?",
+      "options": [
+        "Yes, additional modules",
+        "Yes, DM-created content",
+        "No, the campaign is complete",
+        "Possibly, based on player interest"
+      ]
+    },
+    {
+      "question": "How will you gather feedback from players about the campaign's conclusion?",
+      "options": [
+        "Post-campaign surveys",
+        "Debriefing sessions",
+        "Casual discussions",
+        "Written reflections"
+      ]
+    },
+    {
+      "question": "Are there any debriefing sessions or discussions planned to reflect on the campaign?",
+      "options": [
+        "Yes, a formal debrief",
+        "Yes, an informal discussion",
+        "No, feedback will be gathered separately",
+        "Possibly, if players request it"
+      ]
+    },
+    {
+      "question": "How will player feedback influence future campaign planning and development?",
+      "options": [
+        "Directly shape future plots",
+        "Influence NPC development",
+        "Affect world-building",
+        "Determine pacing and structure"
+      ]
+    },
+    {
+      "question": "Will there be any special mechanics for the final battle or climactic encounters?",
+      "options": [
+        "Yes, unique rules for the final battle",
+        "Yes, special abilities for the antagonist",
+        "No, standard combat mechanics",
+        "Possibly, depending on the encounter"
+      ]
+    },
+    {
+      "question": "How will you handle any final level-ups or character advancements?",
+      "options": [
+        "Allow level-ups before the final battle",
+        "Grant special abilities for the final encounter",
+        "No further advancements",
+        "Final level-ups after the conclusion"
+      ]
+    },
+    {
+      "question": "Are there any specific rules for resolving the final conflicts or achieving the campaign's goals?",
+      "options": [
+        "Yes, custom rules for the finale",
+        "Yes, modified existing rules",
+        "No, standard rules apply",
+        "Possibly, depending on player actions"
+      ]
+    }
+  ]
+}

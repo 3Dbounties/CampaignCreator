@@ -1,0 +1,310 @@
+{
+  "questions": [
+    {
+      "question": "How will player decisions affect the political landscape of the campaign setting?",
+      "options": [
+        "Ally with a major faction",
+        "Undermine a ruling power",
+        "Support a rebellion",
+        "Establish a new governing body"
+      ]
+    },
+    {
+      "question": "What key decisions will players need to make that have long-term impacts?",
+      "options": [
+        "Choosing a faction to support",
+        "Deciding the fate of a powerful artifact",
+        "Forming or breaking alliances with key NPCs",
+        "Determining the outcome of a major conflict"
+      ]
+    },
+    {
+      "question": "Are there any major events or turning points dependent on player choices?",
+      "options": [
+        "Triggering a war between factions",
+        "Discovering a hidden prophecy",
+        "Reviving an ancient evil",
+        "Uniting disparate groups for a common cause"
+      ]
+    },
+    {
+      "question": "How will player alliances or rivalries with NPCs influence the story?",
+      "options": [
+        "Gaining special resources or information",
+        "Facing unexpected betrayals",
+        "Receiving aid during critical moments",
+        "Having to overcome additional obstacles"
+      ]
+    },
+    {
+      "question": "How will character backstories influence the campaign?",
+      "options": [
+        "Unlocking unique quests",
+        "Encountering personal enemies or allies",
+        "Affecting NPC reactions",
+        "Revealing hidden lore about the world"
+      ]
+    },
+    {
+      "question": "Will players have opportunities to resolve personal character arcs?",
+      "options": [
+        "Completing a redemption arc",
+        "Avenging a past wrong",
+        "Reclaiming a lost heritage",
+        "Finding closure with a personal tragedy"
+      ]
+    },
+    {
+      "question": "How will the campaign adapt to player character development and growth?",
+      "options": [
+        "Introducing new challenges suited to their abilities",
+        "Offering choices that reflect their evolving ideals",
+        "Creating opportunities for character growth",
+        "Adjusting NPC interactions based on their actions"
+      ]
+    },
+    {
+      "question": "What specific moral or ethical dilemmas will players face?",
+      "options": [
+        "Choosing between the greater good and personal gain",
+        "Deciding the fate of innocent lives",
+        "Balancing loyalty to friends with duty",
+        "Facing the consequences of past actions"
+      ]
+    },
+    {
+      "question": "How will the campaign address different player perspectives on morality?",
+      "options": [
+        "Presenting morally ambiguous scenarios",
+        "Allowing for diverse solutions to problems",
+        "Facilitating discussions on ethical choices",
+        "Reflecting their choices in the world’s response"
+      ]
+    },
+    {
+      "question": "Are there any major decisions that will force players to choose between conflicting values?",
+      "options": [
+        "Protecting a friend versus saving a village",
+        "Keeping a dangerous secret or revealing it for the greater good",
+        "Supporting a tyrant for stability or risking chaos for freedom",
+        "Sacrificing personal power to prevent a catastrophe"
+      ]
+    },
+    {
+      "question": "How open will the world be for players to explore at their own pace?",
+      "options": [
+        "Completely open with no restrictions",
+        "Partially open with some guided paths",
+        "Open but with time-sensitive missions",
+        "Structured with clear progress milestones"
+      ]
+    },
+    {
+      "question": "Are there any areas or secrets only accessible through player discovery?",
+      "options": [
+        "Hidden dungeons or treasure troves",
+        "Secret societies or factions",
+        "Ancient ruins with untold histories",
+        "Mystical realms accessible through special means"
+      ]
+    },
+    {
+      "question": "How will the campaign balance guided storytelling with player-led exploration?",
+      "options": [
+        "Providing a main quest with optional side quests",
+        "Allowing players to choose their path within a loose framework",
+        "Offering hints and leads but leaving choices open",
+        "Mixing structured events with free exploration periods"
+      ]
+    },
+    {
+      "question": "How will player actions shape the physical world (e.g., altering landscapes, building structures)?",
+      "options": [
+        "Constructing strongholds or settlements",
+        "Destroying or restoring environments",
+        "Influencing weather or natural phenomena",
+        "Opening or closing pathways and routes"
+      ]
+    },
+    {
+      "question": "Are there any dynamic elements in the campaign that change based on player interactions?",
+      "options": [
+        "Evolving political power structures",
+        "Shifting alliances and rivalries",
+        "Changing economic conditions",
+        "Transforming landscapes and landmarks"
+      ]
+    },
+    {
+      "question": "How will player actions affect the economy and social structures within the game?",
+      "options": [
+        "Creating trade routes or blockades",
+        "Influencing market prices",
+        "Redistributing wealth and resources",
+        "Affecting social hierarchies and norms"
+      ]
+    },
+    {
+      "question": "How will players' reputations with various factions and NPCs evolve?",
+      "options": [
+        "Building or losing trust with factions",
+        "Gaining titles or infamy",
+        "Unlocking special privileges or facing sanctions",
+        "Influencing faction goals and actions"
+      ]
+    },
+    {
+      "question": "Will there be a system for tracking player influence or renown?",
+      "options": [
+        "Using a renown point system",
+        "Tracking achievements and accolades",
+        "Recording notable actions and decisions",
+        "Reflecting influence through NPC behavior"
+      ]
+    },
+    {
+      "question": "How will players' actions affect their standing and relationships within different communities?",
+      "options": [
+        "Receiving quests or support from communities",
+        "Facing hostility or resistance",
+        "Influencing community leadership",
+        "Affecting the community's prosperity and stability"
+      ]
+    },
+    {
+      "question": "How will players' choices lead to or resolve conflicts within the story?",
+      "options": [
+        "Starting or ending wars",
+        "Mediating disputes between factions",
+        "Causing or preventing disasters",
+        "Rescuing or capturing key figures"
+      ]
+    },
+    {
+      "question": "Are there any planned consequences for players' failures or successes?",
+      "options": [
+        "Immediate rewards or punishments",
+        "Long-term shifts in the campaign world",
+        "Changes in NPC behavior",
+        "Unlocking or locking future opportunities"
+      ]
+    },
+    {
+      "question": "How will the campaign handle player disagreements or conflicts of interest?",
+      "options": [
+        "Encouraging in-character resolution",
+        "Facilitating group discussions",
+        "Implementing mechanics for decision making",
+        "Allowing for split party actions"
+      ]
+    },
+    {
+      "question": "How will player feedback be incorporated into the campaign's progression?",
+      "options": [
+        "Regularly soliciting player input",
+        "Adjusting the story based on feedback",
+        "Incorporating player suggestions for side quests",
+        "Adapting NPC and world reactions to player actions"
+      ]
+    },
+    {
+      "question": "Will there be opportunities for players to suggest plot directions or side quests?",
+      "options": [
+        "Open-ended plot points for player input",
+        "Player-initiated side quests",
+        "Collaborative world-building sessions",
+        "Flexible story arcs that incorporate player ideas"
+      ]
+    },
+    {
+      "question": "How will the DM adapt the story to reflect player interests and engagement?",
+      "options": [
+        "Modifying quests based on player goals",
+        "Introducing new elements that interest players",
+        "Responding dynamically to player actions",
+        "Ensuring key themes resonate with the group"
+      ]
+    },
+    {
+      "question": "How much freedom will players have in planning and executing combat strategies?",
+      "options": [
+        "Complete freedom to devise plans",
+        "Guidance with tactical suggestions",
+        "Structured encounters with flexibility",
+        "Opportunities for creative combat solutions"
+      ]
+    },
+    {
+      "question": "Are there any significant battles or sieges influenced by player planning?",
+      "options": [
+        "Large-scale battles with player-led tactics",
+        "Sieges where player actions determine success",
+        "Skirmishes with significant consequences",
+        "Ambushes and defensive strategies"
+      ]
+    },
+    {
+      "question": "How will player decisions during combat affect the broader story?",
+      "options": [
+        "Altering the course of wars",
+        "Impacting faction power dynamics",
+        "Saving or losing important NPCs",
+        "Changing the fate of key locations"
+      ]
+    },
+    {
+      "question": "How will player actions influence diplomatic relations between factions or nations?",
+      "options": [
+        "Negotiating treaties or alliances",
+        "Inciting conflicts or peace",
+        "Influencing diplomatic missions",
+        "Shifting power balances"
+      ]
+    },
+    {
+      "question": "Are there opportunities for players to negotiate or broker peace between warring parties?",
+      "options": [
+        "Mediating high-stakes negotiations",
+        "Offering compromises and solutions",
+        "Leveraging alliances for peace",
+        "Using diplomacy to avoid conflicts"
+      ]
+    },
+    {
+      "question": "How will the campaign handle the consequences of diplomatic successes or failures?",
+      "options": [
+        "Immediate changes in alliances",
+        "Long-term peace or tension",
+        "Economic impacts",
+        "Shifts in NPC attitudes and actions"
+      ]
+    },
+    {
+      "question": "How will personal character goals be integrated into the main storyline?",
+      "options": [
+        "Tying personal goals to main quest objectives",
+        "Creating interwoven story arcs",
+        "Allowing personal quests to influence the main plot",
+        "Reflecting character growth in the broader narrative"
+      ]
+    },
+    {
+      "question": "Are there side quests tailored to individual character backgrounds and aspirations?",
+      "options": [
+        "Personal vendettas or rescues",
+        "Quest for unique items or knowledge",
+        "Reconnecting with past acquaintances",
+        "Solving mysteries tied to their heritage"
+      ]
+    },
+    {
+      "question": "How will the completion of personal goals impact the overall campaign?",
+      "options": [
+        "Unlocking new storylines",
+        "Changing the fate of key NPCs",
+        "Influencing faction dynamics",
+        "Enhancing character abilities and resources"
+      ]
+    }
+  ]
+}

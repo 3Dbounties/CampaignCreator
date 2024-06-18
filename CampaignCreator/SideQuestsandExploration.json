@@ -1,0 +1,346 @@
+{
+  "questions": [
+    {
+      "question": "What is the purpose of the side quests?",
+      "options": [
+        "Character development",
+        "World-building",
+        "Additional rewards",
+        "Introducing new NPCs",
+        "Expanding lore",
+        "Exploring new locations"
+      ]
+    },
+    {
+      "question": "How will side quests be introduced to the players?",
+      "options": [
+        "NPC requests",
+        "Discovered documents",
+        "Rumors",
+        "Random encounters",
+        "Found objects",
+        "Messages or letters"
+      ]
+    },
+    {
+      "question": "What variety of side quests will there be?",
+      "options": [
+        "Combat-focused",
+        "Puzzle-solving",
+        "Social interactions",
+        "Exploration",
+        "Stealth missions",
+        "Gathering or fetching tasks"
+      ]
+    },
+    {
+      "question": "How will side quests tie into the main story?",
+      "options": [
+        "Directly related to main plot",
+        "Introduce key characters",
+        "Reveal important lore",
+        "Provide necessary resources",
+        "Create diversions that impact the main quest",
+        "Foreshadow future events"
+      ]
+    },
+    {
+      "question": "What are the potential rewards for completing side quests?",
+      "options": [
+        "Gold",
+        "Magic items",
+        "Information",
+        "Allies or followers",
+        "Experience points",
+        "Reputation or favor"
+      ]
+    },
+    {
+      "question": "Are there any consequences for ignoring or failing side quests?",
+      "options": [
+        "Missed rewards",
+        "Negative NPC reactions",
+        "Lost opportunities",
+        "Increased difficulty in main quest",
+        "Emergence of new threats",
+        "Altered story outcomes"
+      ]
+    },
+    {
+      "question": "How will the difficulty of side quests be balanced relative to the main quest?",
+      "options": [
+        "Scaled to party level",
+        "Based on player choices",
+        "Fixed difficulty tiers",
+        "Progressive challenges",
+        "Dynamic difficulty adjustments",
+        "Balanced with rewards"
+      ]
+    },
+    {
+      "question": "What is the scale of the world the players will explore?",
+      "options": [
+        "Local region",
+        "Multiple cities",
+        "Entire kingdom",
+        "Interconnected continents",
+        "Multiverse"
+      ]
+    },
+    {
+      "question": "How detailed will maps and locations be?",
+      "options": [
+        "Highly detailed with points of interest",
+        "General outlines with key locations",
+        "Abstract maps with narrative descriptions",
+        "Player-drawn maps",
+        "Gradually revealed maps"
+      ]
+    },
+    {
+      "question": "Will players need to manage resources such as food, water, and supplies during exploration?",
+      "options": [
+        "Yes, strictly",
+        "Yes, loosely",
+        "No, not at all",
+        "Only in certain regions",
+        "Only during specific quests"
+      ]
+    },
+    {
+      "question": "How will travel be handled?",
+      "options": [
+        "Random encounters",
+        "Travel time tracking",
+        "Terrain effects",
+        "Pre-planned encounters",
+        "Narrative summaries",
+        "Hex-crawl exploration"
+      ]
+    },
+    {
+      "question": "What role will weather and environmental conditions play in exploration?",
+      "options": [
+        "Significant impact on travel",
+        "Occasional narrative element",
+        "Rare and minor effects",
+        "Integral to certain locations",
+        "Dynamic and changing conditions"
+      ]
+    },
+    {
+      "question": "How will hidden locations or secret areas be discovered?",
+      "options": [
+        "Skill checks",
+        "Player intuition",
+        "Item usage",
+        "Guided by NPCs",
+        "Discovered through maps or clues"
+      ]
+    },
+    {
+      "question": "Are there any recurring themes or motifs in the places players will explore?",
+      "options": [
+        "Ancient ruins",
+        "Natural wonders",
+        "Urban sprawl",
+        "Mystical realms",
+        "Forgotten civilizations",
+        "War-torn landscapes"
+      ]
+    },
+    {
+      "question": "What types of rare items will players be able to find?",
+      "options": [
+        "Legendary weapons",
+        "Ancient artifacts",
+        "Enchanted jewelry",
+        "Potions and elixirs",
+        "Mystical scrolls",
+        "Unique armor"
+      ]
+    },
+    {
+      "question": "How will clues or maps for treasure hunts be provided?",
+      "options": [
+        "Found in hidden locations",
+        "NPC guidance",
+        "Purchased or traded",
+        "Discovered in ancient texts",
+        "Rewarded for completing quests"
+      ]
+    },
+    {
+      "question": "What challenges or obstacles will players face during treasure hunts?",
+      "options": [
+        "Guardians or monsters",
+        "Environmental hazards",
+        "Rival treasure hunters",
+        "Complex puzzles",
+        "Magical traps",
+        "Deceptive maps"
+      ]
+    },
+    {
+      "question": "How will rare items impact the balance of the campaign?",
+      "options": [
+        "Provide significant advantages",
+        "Minor benefits",
+        "Role-playing opportunities",
+        "Key to plot progression",
+        "Balanced by difficult challenges",
+        "Limited uses or charges"
+      ]
+    },
+    {
+      "question": "Are there any legendary artifacts tied to the lore of the campaign world?",
+      "options": [
+        "Yes, several",
+        "Yes, a few",
+        "No, none",
+        "Only hinted at",
+        "Player-dependent discovery"
+      ]
+    },
+    {
+      "question": "How will players identify and learn about the history of rare items they find?",
+      "options": [
+        "Skill checks",
+        "Consulting NPCs",
+        "Research in libraries",
+        "Using identification spells",
+        "Trial and error",
+        "Discovering related lore"
+      ]
+    },
+    {
+      "question": "What is the significance of rare items to the main story or side quests?",
+      "options": [
+        "Crucial to main plot",
+        "Enhances side quests",
+        "Offers new questlines",
+        "Provides character development",
+        "Linked to historical events",
+        "Opens new areas"
+      ]
+    },
+    {
+      "question": "How will the world change based on player actions?",
+      "options": [
+        "New quests",
+        "Altered locations",
+        "NPC reactions",
+        "Emerging threats",
+        "Political shifts",
+        "Resource availability"
+      ]
+    },
+    {
+      "question": "Will there be any timed events or quests that players must complete within a certain timeframe?",
+      "options": [
+        "Yes, frequently",
+        "Yes, occasionally",
+        "Rarely",
+        "No, never",
+        "Only for specific story arcs"
+      ]
+    },
+    {
+      "question": "How will random encounters be determined and managed during exploration?",
+      "options": [
+        "Pre-generated tables",
+        "Dynamic generation",
+        "Player actions",
+        "Story-driven events",
+        "Environmental triggers",
+        "Time-based occurrences"
+      ]
+    },
+    {
+      "question": "What methods will be used to ensure players feel a sense of discovery and wonder?",
+      "options": [
+        "Hidden treasures",
+        "Secret locations",
+        "Unexpected encounters",
+        "Lore-rich environments",
+        "Dynamic storytelling",
+        "Visual descriptions"
+      ]
+    },
+    {
+      "question": "How will exploration and side quests reveal more about the campaign’s lore and backstory?",
+      "options": [
+        "Found documents",
+        "NPC dialogues",
+        "Environmental storytelling",
+        "Discoverable artifacts",
+        "Historical locations",
+        "Unveiling secrets"
+      ]
+    },
+    {
+      "question": "Are there any recurring NPCs or factions that will influence or be influenced by player exploration?",
+      "options": [
+        "Yes, multiple",
+        "Yes, a few",
+        "No, none",
+        "Only in certain regions",
+        "Player-dependent"
+      ]
+    },
+    {
+      "question": "How much freedom will players have to choose their own path in side quests and exploration?",
+      "options": [
+        "Complete freedom",
+        "Moderate guidance",
+        "Limited to certain areas",
+        "Heavily guided",
+        "Player-driven"
+      ]
+    },
+    {
+      "question": "How will the campaign handle player decisions that deviate significantly from planned quests?",
+      "options": [
+        "Adapt story dynamically",
+        "Introduce consequences",
+        "Offer alternative quests",
+        "Allow for complete deviation",
+        "Guide back to main plot",
+        "Sandbox approach"
+      ]
+    },
+    {
+      "question": "What tools or methods will be used to track player progress in exploration and side quests?",
+      "options": [
+        "Quest logs",
+        "Maps",
+        "NPC notes",
+        "Player journals",
+        "Milestone markers",
+        "Game master tracking"
+      ]
+    },
+    {
+      "question": "How will the campaign encourage players to engage with the world and explore off the beaten path?",
+      "options": [
+        "Reward exploration",
+        "Provide hints and clues",
+        "Create intriguing locations",
+        "Offer unique encounters",
+        "Include hidden treasures",
+        "Narrative hooks"
+      ]
+    },
+    {
+      "question": "How will player interactions with NPCs and the environment impact future side quests and exploration opportunities?",
+      "options": [
+        "Unlock new quests",
+        "Change NPC attitudes",
+        "Reveal hidden locations",
+        "Affect world events",
+        "Alter story outcomes",
+        "Create ongoing relationships"
+      ]
+    }
+  ]
+}

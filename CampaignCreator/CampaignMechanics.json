@@ -1,0 +1,316 @@
+{
+  "questions": [
+    {
+      "question": "Will there be any modifications to standard combat rules?",
+      "options": [
+        "Use standard D&D 5e combat rules",
+        "Introduce house rules for specific situations",
+        "Implement alternative combat systems like Gritty Realism"
+      ]
+    },
+    {
+      "question": "How will initiative be handled? Any changes or special rules?",
+      "options": [
+        "Use standard D&D 5e initiative rules",
+        "Introduce group initiative",
+        "Use a deck of initiative cards"
+      ]
+    },
+    {
+      "question": "Are there any specific conditions or house rules for critical hits and misses?",
+      "options": [
+        "Use standard D&D 5e rules for critical hits and misses",
+        "Introduce additional effects for critical hits",
+        "Implement critical fumbles for natural 1s"
+      ]
+    },
+    {
+      "question": "How will you handle resting and recovery during the campaign? Any changes to short or long rests?",
+      "options": [
+        "Use standard D&D 5e rules for short and long rests",
+        "Implement Gritty Realism resting rules",
+        "Introduce alternative resting mechanics based on environment"
+      ]
+    },
+    {
+      "question": "Will you use any alternative rules for flanking, cover, or line of sight?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce flanking rules for advantage",
+        "Implement stricter line of sight rules"
+      ]
+    },
+    {
+      "question": "How will you handle multi-enemy combat scenarios? Any special tactics or rules for hordes?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce horde mechanics for large groups",
+        "Implement special tactics for intelligent enemies"
+      ]
+    },
+    {
+      "question": "Will there be any special rules for spellcasting, such as limitations or enhancements?",
+      "options": [
+        "Use standard D&D 5e spellcasting rules",
+        "Introduce spell point system",
+        "Implement house rules for specific schools of magic"
+      ]
+    },
+    {
+      "question": "Will there be any changes to skill checks or ability checks?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce expanded skill checks",
+        "Implement house rules for specific abilities"
+      ]
+    },
+    {
+      "question": "Are there any new skills or abilities unique to this campaign?",
+      "options": [
+        "No new skills or abilities",
+        "Introduce campaign-specific skills",
+        "Implement new abilities based on character backgrounds"
+      ]
+    },
+    {
+      "question": "How will skill proficiencies and expertise be managed or modified?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce proficiency tiers",
+        "Implement expanded expertise options"
+      ]
+    },
+    {
+      "question": "Will there be any modifications to the advantage/disadvantage mechanics?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce situational modifiers",
+        "Implement house rules for specific scenarios"
+      ]
+    },
+    {
+      "question": "How will character creation be handled? Any restrictions or additional options?",
+      "options": [
+        "Use standard D&D 5e character creation rules",
+        "Introduce additional races and classes",
+        "Implement restrictions based on campaign setting"
+      ]
+    },
+    {
+      "question": "Are there any specific rules for character advancement or multiclassing?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce milestone leveling",
+        "Implement restricted multiclassing options"
+      ]
+    },
+    {
+      "question": "Will there be any unique backgrounds or feats available to players?",
+      "options": [
+        "Use standard D&D 5e backgrounds and feats",
+        "Introduce campaign-specific backgrounds",
+        "Implement new feats based on campaign themes"
+      ]
+    },
+    {
+      "question": "How will character death and resurrection be handled?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce harsher death penalties",
+        "Implement easier resurrection mechanics"
+      ]
+    },
+    {
+      "question": "Are there any specific rules for managing character traits, bonds, flaws, and ideals?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce expanded role-playing rewards",
+        "Implement stricter adherence to character traits"
+      ]
+    },
+    {
+      "question": "How will encumbrance be managed? Any house rules for carrying capacity?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce simplified encumbrance rules",
+        "Implement stricter carrying capacity limits"
+      ]
+    },
+    {
+      "question": "Will there be any special rules for acquiring, using, or upgrading equipment?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce crafting and upgrading mechanics",
+        "Implement limited access to certain equipment"
+      ]
+    },
+    {
+      "question": "Are there any limitations or enhancements for certain types of gear (e.g., magic items, armor, weapons)?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce campaign-specific magic items",
+        "Implement enhanced gear options based on story progression"
+      ]
+    },
+    {
+      "question": "How will mundane equipment and supplies be handled in terms of availability and usage?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce resource management mechanics",
+        "Implement limited availability based on environment"
+      ]
+    },
+    {
+      "question": "Are there any special rules for social interactions and diplomacy?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce expanded role-playing mechanics",
+        "Implement reputation-based social interactions"
+      ]
+    },
+    {
+      "question": "How will you handle languages and communication barriers?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce language proficiency mechanics",
+        "Implement expanded communication rules for different races"
+      ]
+    },
+    {
+      "question": "Will there be any mechanics for reputation, fame, or infamy?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce reputation system",
+        "Implement fame and infamy mechanics based on actions"
+      ]
+    },
+    {
+      "question": "How will you manage player alliances and relationships with NPCs?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce relationship mechanics",
+        "Implement NPC loyalty and betrayal mechanics"
+      ]
+    },
+    {
+      "question": "Are there any specific rules for handling different environments (e.g., underwater, arctic, desert)?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce environment-specific survival mechanics",
+        "Implement expanded rules for extreme environments"
+      ]
+    },
+    {
+      "question": "How will weather and natural disasters impact gameplay?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce dynamic weather system",
+        "Implement natural disaster mechanics"
+      ]
+    },
+    {
+      "question": "Are there any mechanics for handling large-scale battles or warfare?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce mass combat rules",
+        "Implement expanded warfare mechanics"
+      ]
+    },
+    {
+      "question": "How will you manage exploration and discovery in the campaign?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce exploration mechanics",
+        "Implement expanded discovery and travel rules"
+      ]
+    },
+    {
+      "question": "How will you handle resources like food, water, and ammunition?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce resource tracking mechanics",
+        "Implement expanded survival rules"
+      ]
+    },
+    {
+      "question": "Are there any special rules for managing wealth and treasure?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce wealth management system",
+        "Implement expanded treasure acquisition rules"
+      ]
+    },
+    {
+      "question": "How will you manage the economy and trade within the campaign?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce trade and economy mechanics",
+        "Implement expanded merchant and market rules"
+      ]
+    },
+    {
+      "question": "How will player knowledge vs. character knowledge be handled?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce meta-knowledge penalties",
+        "Implement player knowledge checks"
+      ]
+    },
+    {
+      "question": "Will there be any specific rules for player behavior and table etiquette?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce code of conduct",
+        "Implement behavior and etiquette guidelines"
+      ]
+    },
+    {
+      "question": "How will you manage game pacing and session length?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce flexible pacing mechanics",
+        "Implement strict session time limits"
+      ]
+    },
+    {
+      "question": "Are there any guidelines for resolving player conflicts or disagreements?",
+      "options": [
+        "Use standard D&D 5e rules",
+        "Introduce conflict resolution guidelines",
+        "Implement player mediation mechanics"
+      ]
+    },
+    {
+      "question": "How open are you to modifying or adjusting rules mid-campaign based on player feedback?",
+      "options": [
+        "Stick to initial rules strictly",
+        "Be open to modifications based on consensus",
+        "Implement trial periods for new rules"
+      ]
+    },
+    {
+      "question": "Will there be any trial periods for new mechanics or rules?",
+      "options": [
+        "No trial periods",
+        "Introduce trial periods for major changes",
+        "Implement flexible trial periods based on feedback"
+      ]
+    },
+    {
+      "question": "How will you document and communicate any rule changes to the players?",
+      "options": [
+        "Use verbal communication during sessions",
+        "Introduce written rule change logs",
+        "Implement digital tools for rule documentation"
+      ]
+    },
+    {
+      "question": "Are there any specific tools or resources you will use to manage campaign mechanics (e.g., digital tools, reference sheets)?",
+      "options": [
+        "Use standard D&D 5e resources",
+        "Introduce digital tools like D&D Beyond",
+        "Implement custom reference sheets and tools"
+      ]
+    }
+  ]
+}
